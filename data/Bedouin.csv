@@ -1,0 +1,1001 @@
+﻿id ,text,source,label_guess,confidence,classification
+1,حطوا الزاد للضيوف ,Twitter ,Bedouin,High,Neutral
+2,فزعنا لكم,Twitter ,Bedouin,Medium,Positive
+3,عطني خبرك وخذ خبري,Twitter ,Bedouin,Medium,Neutral
+4,دمنا واحد يا ولد عمي,Twitter ,Bedouin,High,Neutral
+5,قوكم ,Facebook ,Bedouin,low,Neutral
+6,اللي ما يِعرف الصقر يِشويه,Facebook ,Bedouin,Medium,Neutral
+7,بيض الله وجهك,Facebook ,Bedouin,Medium,Positive
+8,معَزّبنا اليوم ذبح ذبيحة,Facebook ,Bedouin,High,Neutral
+9,حي الله بيك ,Twitter ,Bedouin,Medium,Positive
+10,يا ولد صب هالفنجان و زود الهيل للمساير الي لفونه,Facebook ,Bedouin,High,Neutral
+11,جيناك بعطوى  ما تنرد لا تسود وجوهنا الله لا يسود وجهك ,Twitter ,Bedouin,High,Negative
+12,الضيف لو يجي فجأة نلقى له مكان ونكرمه بالطيب,LLM,Bedouin,High,Positive
+13,ودي اصدقك بس قويه ,Twitter ,Bedouin,High,Neutral
+14,حنا نعرف الحشم ونحترم اللي أكبر منا,Facebook ,Bedouin,Medium,Positive
+15,بيت السبع ما يخلى من العظام,Twitter ,Bedouin,Medium,Negative
+16,عيَا يروح على المدرسه ,Facebook ,Bedouin,Medium,Negative
+17,علامك تهاوش ,Facebook ,Bedouin,Medium,Negative
+18,أرعيه وين ,Facebook ,Bedouin,Medium,Neutral
+19,من متاه وانت اهني,Facebook ,Bedouin,Medium,Neutral
+20,ودياك تمر علي,Facebook ,Bedouin,Medium,Neutral
+21,لما قوطرنا ,Facebook ,Bedouin,low,Neutral
+22,عييت عنه ,Facebook ,Bedouin,Medium,Negative
+23,قِب عني,Facebook ,Bedouin,Medium,Negative
+24,أجنص,Facebook ,Bedouin,low,Negative
+25,أسري من الجهمة,Facebook ,Bedouin,low,Neutral
+26,ألـبـخ ,Facebook ,Bedouin,low,Negative
+27,يا زقينه زقيناه,Facebook ,Bedouin,low,Negative
+28,ازريت,Facebook ,Bedouin,low,Negative
+29,الخوصة ,Facebook ,Bedouin,low,Neutral
+30,اغر جاي,Facebook ,Bedouin,low,Negative
+31,اليوم ربوعنا مجتمعين عند المضارب نسولف ونشرب قهوة,LLM,Bedouin,High,Neutral
+32,لا تهتم يا ولد عمي حنا نفزع لك وقت الضيق,LLM,Bedouin,High,Positive
+33,الضيف له واجب علينا ونكرمه بفنجال القهوة,LLM,Bedouin,High,Positive
+34,ربعي ما يقصرون وقت الشدة دايم وقفة رجال,LLM,Bedouin,Medium,Neutral
+35,هالليلة عندنا قعدة وسوالف حول النار,LLM,Bedouin,Medium,Neutral
+36,اللي ما يعرف الفزعة ما يعرف طيب الربوع,LLM,Bedouin,High,Positive
+37,حنا نوقف مع خويّنا لو الدنيا كلها عليه,LLM,Bedouin,Medium,Positive
+38,القهوة العربية دايم حاضرة عند أهل الكرم,LLM,Bedouin,Medium,Positive
+39,اللي يطلب الفزعة يلقانا حاضرين بدون تردد,LLM,Bedouin,High,Positive
+40,الجار له حق والضيف له تقدير عندنا,LLM,Bedouin,Medium,Neutral
+41,ما نرد الضيف حتى لو الظروف صعبة,LLM,Bedouin,Medium,Positive
+42,ربعي ما يقصرون وقت الفزعة لو اشتدت علينا الشدة,LLM,Bedouin,High,Neutral
+43,جيناكم بعطوة ما تنرد ونطلب منكم السمح والطيب,LLM,Bedouin,High,Positive
+44,ولد العم عزوة وما ينترك وقت الحاجة والشدّة,LLM,Bedouin,High,Neutral
+45,الدخيل بيننا له الأمان ونوقف معه لو صار عليه,LLM,Bedouin,High,Positive
+46,الصيف على الباب والمية تشح في البير,LLM,Bedouin,Medium,Neutral
+47,الريح من الشمال والليلة ما في دفا,LLM,Bedouin,Medium,Neutral
+48,الرجال يتبين في وقت الشدة مو وقت الرخا,LLM,Bedouin,Medium,Neutral
+49,بعت الناقة بسعر ما رضيت بأقل منه,LLM,Bedouin,High,Neutral
+50,الكيل الصادق بركة والغش ما يدوم,LLM,Bedouin,High,Positive
+51,وادي السرحان فاض والإبل ما قدرت تعبر,LLM,Bedouin,High,Neutral
+52,يا طيب أصله من جدوده وطيب الأصل ما يخيب,LLM,Bedouin,High,Positive
+53,الدية تُدفع والوجه يبيض أمام الكبار,LLM,Bedouin,Medium,Neutral
+54,العريس من ولاد الشايب وما فيه كلام,LLM,Bedouin,High,Neutral
+55,يسعد صباحك يا ولد عمي وين طالع؟,LLM,Bedouin,Medium,Neutral
+56,الضيف بيتنا وما ينترك يمشي بدون عشا,LLM,Bedouin,High,Neutral
+57,فارس وما يحتاج سيف من شيمته تغنيه,LLM,Bedouin,Medium,Neutral
+58,الضيف عزيز علينا ولو جا بغير موعد,Facebook,Bedouin,High,Positive
+59,صبّ القهوة يا ولد وزود الهيل ما نبخل على ضيوفنا,LLM,Bedouin,High,Neutral
+60,ذبحنا للضيف عشا وما قصرنا بحقه,LLM,Bedouin,High,Positive
+61,اللي يدق بابنا ما يمشي بدون فنجال,LLM,Bedouin,High,Neutral
+62,المعزب كريم وذبيحته على الجمر,Twitter,Bedouin,High,Positive
+63,حي الله بالضيوف نورتوا المضارب,Facebook,Bedouin,High,Positive
+64,القهوة حاضرة والدلة ما تبرد عندنا,Twitter,Bedouin,High,Positive
+65,كرم الرجال بأفعاله مو بكلامه,LLM,Bedouin,Medium,Positive
+66,الضيف ما ينسأل ثلاث ايام وبعدها نسأله وين تبي,Facebook,Bedouin,High,Neutral
+67,نكرم الضيف بالذبيحة وبالقهوة المرة,Twitter,Bedouin,High,Positive
+68,اللي ما يكرم ضيفه ما يستاهل يتسمى رجال,Facebook,Bedouin,High,Positive
+69,الدلة والفنجال من عادات أجدادنا,LLM,Bedouin,High,Neutral
+70,هات الدلة يا ولد واسكب للضيوف,Twitter,Bedouin,High,Neutral
+71,عندنا القهوة ما تنقطع صيف ولا شتا,Facebook,Bedouin,High,Neutral
+72,ضيفنا عزيز وما نرده أبد,Twitter,Bedouin,High,Positive
+73,بيتنا مفتوح لكل ضيف ومسافر,Twitter,Bedouin,High,Neutral
+74,اللي يطرق بابنا نكرمه بأحسن ما عندنا,LLM,Bedouin,High,Positive
+75,حطّوا العشا للضيوف وزيدوا المنسف,Twitter,Bedouin,High,Neutral
+76,الضيف له الصدر ونحن خدامه,LLM,Bedouin,High,Neutral
+77,ما نسمح للضيف يطلع بدون أكل وشرب,LLM,Bedouin,High,Neutral
+78,القدر على النار والذبيحة حاضرة,Facebook,Bedouin,High,Positive
+79,المجلس عامر والقهوة سخية,LLM,Bedouin,Medium,Positive
+80,نذبح للضيف ولو كان آخر راس عندنا,Facebook,Bedouin,High,Neutral
+81,الكريم يعرفونه من بعيد بأفعاله,Twitter,Bedouin,Medium,Positive
+82,هلا وغلا بالضيوف حياكم الله,LLM,Bedouin,High,Positive
+83,المنسف جاهز واللحم على الرز,Twitter,Bedouin,High,Neutral
+84,خذ فنجالك يا ضيفنا ولا تستحي,Facebook,Bedouin,High,Neutral
+85,نار الكرم ما تنطفي عندنا,LLM,Bedouin,High,Positive
+86,الضيف يجي بركة والبخيل يجي نكبة,Twitter,Bedouin,High,Positive
+87,صبّوا للرجال قهوة وزيدوا التمر,LLM,Bedouin,High,Neutral
+88,حنا نفزع لخوينا لو كانت الدنيا كلها ضده,LLM,Bedouin,High,Positive
+89,ربعي وقفة رجال وما يخلّون أحد,Facebook,Bedouin,High,Positive
+90,الفزعة عندنا بالدم مو بالكلام,LLM,Bedouin,High,Neutral
+91,نوقف مع ابن العم لو على حساب أرواحنا,LLM,Bedouin,High,Positive
+92,اللي يمس ربعي مسّني,LLM,Bedouin,High,Neutral
+93,حنا فزعة واحدة ما نتفرق,Facebook,Bedouin,High,Positive
+94,النخوة عندنا واجب مو اختيار,Twitter,Bedouin,High,Positive
+95,ربعنا لو ينادون نلبي بلا تفكير,Facebook,Bedouin,High,Positive
+96,الرجال تتبيّن وقت الشدايد,LLM,Bedouin,Medium,Neutral
+97,حنا أهل الفزعة والوقفة الصادقة,LLM,Bedouin,High,Positive
+98,لو خويّنا بعيد نوصله ونفزع له,Twitter,Bedouin,High,Positive
+99,العزوة ربعك اللي يوقفون معك,LLM,Bedouin,High,Neutral
+100,ما نخلّي خوينا يواجه المصاعب لحاله,LLM,Bedouin,High,Neutral
+101,الفزعة شيمة الرجال الأصيلين,LLM,Bedouin,High,Positive
+102,يا عيال حنا ربع واحد بالسراء والضراء,Facebook,Bedouin,High,Positive
+103,لو الدنيا كلها ضدك حنا معك,Twitter,Bedouin,High,Neutral
+104,النخوة ما تموت بقلوب الرجال,LLM,Bedouin,High,Positive
+105,حنا وربعنا إيد واحدة,LLM,Bedouin,High,Neutral
+106,اللي يحتاجنا يلقانا قبل ما ينادي,Twitter,Bedouin,High,Neutral
+107,وقت الشدة تعرف مين خويّك الصادق,LLM,Bedouin,Medium,Neutral
+108,دمنا واحد وعرضنا واحد,Twitter,Bedouin,High,Neutral
+109,الفزعة ما لها وقت محدد نفزع بكل حين,Twitter,Bedouin,High,Positive
+110,ربعي سندي وعزوتي بالدنيا,Facebook,Bedouin,High,Neutral
+111,اللي ما يعرف الفزعة ما يعرف الرجولة,LLM,Bedouin,High,Positive
+112,نركض لربعنا ركض الخيل,LLM,Bedouin,High,Neutral
+113,العرض ما ينداس وحنا حراسه,Facebook,Bedouin,High,Neutral
+114,وقفتنا وقفة رجال ما فيها تراجع,Twitter,Bedouin,High,Positive
+115,ابن العم سندك لو الكل خذلك,Twitter,Bedouin,High,Positive
+116,حنا ربع المواقف مو ربع الكلام,LLM,Bedouin,High,Neutral
+117,الشجاعة والفزعة ورثناها من جدودنا,Twitter,Bedouin,High,Positive
+118,الناقة الأصيلة تعرفها من مشيتها,LLM,Bedouin,High,Positive
+119,إبلنا ترعى بالوادي والحمد لله سمان,Facebook,Bedouin,High,Positive
+120,الذلول سريعة وتقطع المسافات بالساعات,LLM,Bedouin,High,Positive
+121,حلبنا الناقة الصبح وشربنا لبنها طازج,Facebook,Bedouin,High,Positive
+122,الراعي يسرح بإبله من الفجر لين المغرب,Facebook,Bedouin,High,Neutral
+123,البعير لو عطش يقدر يصبر أيام,Twitter,Bedouin,High,Positive
+124,ناقتنا ولدت والحوار يركض وراها,Facebook,Bedouin,High,Neutral
+125,الإبل عز البدو وثروتهم,LLM,Bedouin,High,Neutral
+126,وسمنا الإبل بوسم القبيلة,Facebook,Bedouin,High,Neutral
+127,الحلال يرعى بالربيع والأرض خضرا,LLM,Bedouin,High,Positive
+128,البعير اللي ما ينقاد بالحسنى ما ينقاد بالقوة,LLM,Bedouin,High,Neutral
+129,ناقة المزاين تسوى ذهب,Facebook,Bedouin,High,Neutral
+130,الراعي يعرف كل راس من حلاله بالاسم,LLM,Bedouin,High,Neutral
+131,إبلنا من أصايل الحمر وما فيها عيب,Facebook,Bedouin,High,Neutral
+132,الحوار لازم يكبر عند أمه لين يقوى,LLM,Bedouin,High,Neutral
+133,سرحنا الإبل بالصحرا وردّيناها بالمغرب,LLM,Bedouin,High,Neutral
+134,البعير الأصيل ما يخون صاحبه,LLM,Bedouin,Medium,Positive
+135,الناقة لو حنّت على ولدها ما تسكت,LLM,Bedouin,High,Neutral
+136,حلال جدنا كثير والحمد لله ما نشتكي,Twitter,Bedouin,High,Positive
+137,الإبل إذا شبعت ماء تقدر تمشي أسبوع,LLM,Bedouin,High,Neutral
+138,عندنا ناقة حلوب تعطي حليب كثير,Twitter,Bedouin,High,Positive
+139,البدوي يعرف إبله زي ما يعرف عياله,Facebook,Bedouin,High,Positive
+140,الراعي ما ينام لين يطمن على حلاله,Twitter,Bedouin,High,Neutral
+141,وردنا الإبل على البير وشربت لين ارتوت,LLM,Bedouin,High,Neutral
+142,الذلول اللي عندنا ما لها مثيل بالسرعة,Twitter,Bedouin,High,Positive
+143,حلالنا يرعى بالفيافي وما يضيع,Twitter,Bedouin,High,Positive
+144,البعير حمل الأمتعة وما شكى,LLM,Bedouin,High,Neutral
+145,إبلنا تعرف الطريق للمرعى بدون دليل,Facebook,Bedouin,High,Neutral
+146,الناقة الأصيلة عزّ لصاحبها,LLM,Bedouin,High,Positive
+147,لبن الناقة شفا وبركة,Facebook,Bedouin,High,Positive
+148,اللي ما له أول ما له تالي,Facebook,Bedouin,Medium,Neutral
+149,الطيب ما يضيع بين الناس,Facebook,Bedouin,Medium,Positive
+150,اصبر على جارك ولو جارك ما صبر عليك,LLM,Bedouin,Medium,Positive
+151,اللي يزرع خير يحصد خير,Facebook,Bedouin,Medium,Positive
+152,الرجال مواقف مو كلام,Facebook,Bedouin,Medium,Neutral
+153,اللي ما يركب الصعب ما ينال المطلوب,LLM,Bedouin,High,Neutral
+154,الصبر مفتاح الفرج والعجلة من الشيطان,Twitter,Bedouin,Medium,Positive
+155,اللي يبي العلا يسهر الليالي,Facebook,Bedouin,Medium,Neutral
+156,خذ الحكمة من أفواه كبار السن,LLM,Bedouin,Medium,Neutral
+157,العين بصيرة واليد قصيرة,LLM,Bedouin,Medium,Neutral
+158,اللي ما يعرف الشدة ما يعرف الرخا,Twitter,Bedouin,Medium,Neutral
+159,الجمل ما يشوف عوجة رقبته,Twitter,Bedouin,High,Neutral
+160,كل فعل وله جزاه سوا خير أو شر,LLM,Bedouin,Medium,Positive
+161,اللي يطول صبره ينال مطلبه,Facebook,Bedouin,Medium,Positive
+162,الريح اللي ما تعجبك لا تبحّر فيها,Facebook,Bedouin,High,Neutral
+163,خل الأيام تعلمك واسمع كلام اللي جرّب,Facebook,Bedouin,Medium,Neutral
+164,العقل زينة والجهل شينة,LLM,Bedouin,Medium,Positive
+165,اللي حظه رديء ما ينفعه اجتهاده,Facebook,Bedouin,Medium,Neutral
+166,الكلمة الطيبة تفتح أبواب مسكرة,Twitter,Bedouin,Medium,Positive
+167,خويّك اللي يبكي معك مو اللي يضحك معك,Facebook,Bedouin,Medium,Positive
+168,اللي ما يحترم كباره ما يحترمونه صغاره,Facebook,Bedouin,Medium,Neutral
+169,الصقر لو جاع ما ياكل الميتة,LLM,Bedouin,High,Positive
+170,اللي يمد رجله أكثر من فراشه ينكشف,LLM,Bedouin,Medium,Neutral
+171,الكريم يعطي قبل ما تطلبه,LLM,Bedouin,Medium,Positive
+172,ما كل من ركب الخيل فارس,Twitter,Bedouin,High,Neutral
+173,السر إذا طلع من ثنين ما يبقى سر,Twitter,Bedouin,Medium,Neutral
+174,اللي يحفر حفرة لأخوه يقع فيها,LLM,Bedouin,Medium,Neutral
+175,الحر ما يأكل بثدييه,LLM,Bedouin,High,Neutral
+176,إذا كان خويّك حلو لا تاكله كله,LLM,Bedouin,Medium,Positive
+177,ضربة المعلم بألف ضربة,Facebook,Bedouin,Medium,Positive
+178,الليل بالصحرا ساكن والنجوم زينة السما,Facebook,Bedouin,High,Positive
+179,المطر نزل والأرض اخضرّت والحمد لله,Twitter,Bedouin,High,Positive
+180,الريح هبّت من الشمال والبرد قرصنا,LLM,Bedouin,High,Neutral
+181,الصحرا واسعة وما لها حدود,Facebook,Bedouin,High,Neutral
+182,نجمة الصبح بانت والفجر قرب,Twitter,Bedouin,High,Neutral
+183,الوادي فاض من المطر والماء يجري,Twitter,Bedouin,High,Neutral
+184,حر الصيف بالصحرا ما يتحمله إلا البدوي,Facebook,Bedouin,High,Neutral
+185,الشمس غربت والليل جا بهدوءه,Twitter,Bedouin,Medium,Neutral
+186,الرمل يلمع تحت الشمس زي الذهب,LLM,Bedouin,High,Neutral
+187,البير عميق والماء بارد وعذب,LLM,Bedouin,High,Positive
+188,السماء صافية والنجوم كثيرة الليلة,LLM,Bedouin,Medium,Positive
+189,الربيع جا والأرض لبست ثوب أخضر,LLM,Bedouin,High,Positive
+190,رياح السموم حارة وتلفح الوجه,Facebook,Bedouin,High,Negative
+191,الثلج نزل على الجبال وبيّض الراس,Facebook,Bedouin,Medium,Neutral
+192,القمر بدر الليلة والدنيا منوّرة,Twitter,Bedouin,Medium,Positive
+193,ماء المطر أحلى من ماء البير,LLM,Bedouin,High,Positive
+194,الصحرا بالليل باردة وبالنهار حارة,Facebook,Bedouin,High,Neutral
+195,العاصفة الرملية جات وما خلّت شي باين,Facebook,Bedouin,High,Negative
+196,النخل طرح بلح وتمر والحمد لله على النعمة,Twitter,Bedouin,High,Positive
+197,الغيوم تجمعت وإن شاء الله مطر,Facebook,Bedouin,Medium,Neutral
+198,الوديان خضرا بعد المطر والحلال يرعى فيها,Twitter,Bedouin,High,Positive
+199,شمس الظهيرة تحرق بالصيف,Twitter,Bedouin,Medium,Neutral
+200,الصقيع نزل بالليل والماء تجمّد,LLM,Bedouin,Medium,Neutral
+201,ريحة المطر بالصحرا ما لها مثيل,LLM,Bedouin,High,Neutral
+202,البراري واسعة والسما قريبة,Twitter,Bedouin,High,Neutral
+203,الصحرا أمنا وبها ترعرعنا,Twitter,Bedouin,High,Neutral
+204,المغرب حمر والشمس تودّع اليوم,LLM,Bedouin,Medium,Neutral
+205,نار الحطب بالليل دفا ونور,Facebook,Bedouin,High,Positive
+206,الجبل عالي والطريق صعب بس نوصل,LLM,Bedouin,Medium,Positive
+207,ماء الغدير صافي وبارد بعد المطر,LLM,Bedouin,High,Neutral
+208,وين رايح يا ولد من الصبح,LLM,Bedouin,Medium,Neutral
+209,قم سوّ لنا شاهي على النار,Facebook,Bedouin,Medium,Neutral
+210,الحريم يسوّن الخبز على الصاج,LLM,Bedouin,High,Neutral
+211,يا ولد روح جيب حطب للنار,Facebook,Bedouin,High,Neutral
+212,اقعد يا رجال خلنا نتسامر شوي,Twitter,Bedouin,Medium,Neutral
+213,البرد الليلة قارس وعلينا نولع النار,Facebook,Bedouin,High,Neutral
+214,الخيمة منصوبة والفراش جاهز,LLM,Bedouin,High,Neutral
+215,سويت قرصان على الجمر وطلعت زينة,Twitter,Bedouin,High,Positive
+216,الصبح بدري وعلينا نسرح الحلال,Twitter,Bedouin,High,Neutral
+217,طبخنا مندي على الحفرة وريحته تفتح النفس,Facebook,Bedouin,High,Positive
+218,خل البنات يغزلن الصوف نبي نسوي بيت شعر,Twitter,Bedouin,High,Neutral
+219,الجدة تسوّي السمن البلدي من الحليب,Twitter,Bedouin,High,Neutral
+220,قبل الفجر نصحى ونبدأ يومنا,LLM,Bedouin,High,Neutral
+221,الرجال قاعدين بالمجلس يتسامرون,Facebook,Bedouin,Medium,Neutral
+222,يا بنت سوّي لنا عصيدة الليلة,LLM,Bedouin,High,Neutral
+223,الماء شحّ والبير بعيد علينا,Facebook,Bedouin,High,Negative
+224,جمعنا الحطب من البر وكومناه,Facebook,Bedouin,High,Neutral
+225,الخيمة دافية والنار مشتعلة,LLM,Bedouin,High,Positive
+226,نشرب الشاهي بالنعناع بعد العشا,Facebook,Bedouin,Medium,Neutral
+227,الحريم يطحنّ البن للقهوة,Twitter,Bedouin,High,Neutral
+228,يا ولد وين حطيت الحبل,Facebook,Bedouin,Medium,Neutral
+229,طلعنا للبر نتمشى ونقنص,LLM,Bedouin,High,Neutral
+230,اليوم حار وما نقدر نطلع,Facebook,Bedouin,Medium,Neutral
+231,الحمد لله على السلامة من وين جاي,Facebook,Bedouin,Medium,Positive
+232,بكرة نرحل ونضرب الخيام بمكان ثاني,Twitter,Bedouin,High,Neutral
+233,الماء قليل ولازم نوفر فيه,LLM,Bedouin,Medium,Neutral
+234,نحتطب من الأشجار اليابسة,LLM,Bedouin,High,Neutral
+235,العيال يلعبون بالرمل والكبار يتسامرون,Twitter,Bedouin,High,Positive
+236,شربنا لبن الناقة على الريق,LLM,Bedouin,High,Neutral
+237,بيت الشعر واسع ويكفي الكل,Twitter,Bedouin,High,Neutral
+238,العرس الليلة والربع كلهم حاضرين,LLM,Bedouin,High,Neutral
+239,الأهازيج طالعة والفرحة عمّت الديرة,Facebook,Bedouin,High,Neutral
+240,العريس من خيار شباب القبيلة,Facebook,Bedouin,High,Neutral
+241,الذبايح كثيرة والعرس كبير,LLM,Bedouin,High,Positive
+242,الحريم يزغردن والرجال يرقصون العرضة,Twitter,Bedouin,High,Neutral
+243,مبروك يا ولدي الله يتمم بالخير,Facebook,Bedouin,Medium,Positive
+244,السامر الليلة والشباب متحمسين,LLM,Bedouin,High,Neutral
+245,العرضة النجدية بالسيوف والطبول,Twitter,Bedouin,High,Neutral
+246,كل القبيلة حضرت تبارك للعريس,LLM,Bedouin,High,Positive
+247,الخطوبة تمت والحمد لله على التوفيق,Facebook,Bedouin,Medium,Positive
+248,المهر محدد وأهل البنت راضين,LLM,Bedouin,High,Positive
+249,ليلة الحنا والبنات يغنّن,Facebook,Bedouin,High,Neutral
+250,العرس على الأصول والتقاليد ما تتغير,Twitter,Bedouin,High,Neutral
+251,الولادة سهلة والحمد لله والمولود بخير,Facebook,Bedouin,Medium,Positive
+252,سمّينا الولد على اسم جده,LLM,Bedouin,High,Neutral
+253,العقيقة بكرة وعزمنا الأهل والأقارب,LLM,Bedouin,High,Neutral
+254,الختان عندنا عادة وما نتأخر فيها,Twitter,Bedouin,High,Neutral
+255,المناسبة جمعت الأهل من كل مكان,Facebook,Bedouin,Medium,Neutral
+256,الربع كلهم شاركوا بالفرحة,LLM,Bedouin,High,Positive
+257,الهجيني طالع والشباب يرقصون,Twitter,Bedouin,High,Positive
+258,مبروك العرس يا ابن العم الله يوفقك,Facebook,Bedouin,High,Positive
+259,العرس بالبر أحلى وأوسع,Twitter,Bedouin,High,Positive
+260,ذبحنا عشرين راس للعرس,LLM,Bedouin,High,Positive
+261,الطبول تدق والأهازيج عالية,Facebook,Bedouin,High,Neutral
+262,العروس من بنات العم والأهل فرحانين,Twitter,Bedouin,High,Positive
+263,الحداء طالع والإبل تمشي عليه,Twitter,Bedouin,High,Neutral
+264,المعرس سوّا عشا كبير لكل الربع,LLM,Bedouin,High,Neutral
+265,الزفة الليلة والكل مدعوين,LLM,Bedouin,High,Neutral
+266,فرحة العرس ما لها مثيل عند البدو,Twitter,Bedouin,High,Positive
+267,الشعراء قالوا قصايد بالعرس,LLM,Bedouin,High,Neutral
+268,الشيخ حكم بالعدل والكل رضي,LLM,Bedouin,High,Positive
+269,العطوة تُقدم والوجوه تبيض,LLM,Bedouin,High,Positive
+270,حكم القاضي نافذ وما فيه رد,LLM,Bedouin,High,Neutral
+271,الصلح خير والعداوة ما تنفع أحد,Facebook,Bedouin,Medium,Neutral
+272,الدية تُدفع بالإبل أو بالمال,LLM,Bedouin,High,Neutral
+273,الجاهة راحت وطلبت السماح,LLM,Bedouin,High,Neutral
+274,العرف عندنا قانون ما يخالفه أحد,Facebook,Bedouin,High,Neutral
+275,كبار القبيلة جلسوا وحكموا بالعدل,Twitter,Bedouin,High,Positive
+276,الذمة عندنا غالية ما تنباع,LLM,Bedouin,High,Positive
+277,كلمة الرجال عقد ما يحتاج ورق,Facebook,Bedouin,High,Neutral
+278,الشرف فوق كل شي عندنا,Twitter,Bedouin,High,Positive
+279,المجلس قرر والكل لازم يلتزم,Facebook,Bedouin,High,Neutral
+280,الحق يرجع لأهله مهما طال الزمن,LLM,Bedouin,Medium,Positive
+281,الوسيط لازم يكون محل ثقة الطرفين,LLM,Bedouin,High,Neutral
+282,العيب عندنا ما يُنسى بسهولة,Facebook,Bedouin,High,Negative
+283,الجيرة لها حق وما ينتهك,Twitter,Bedouin,High,Neutral
+284,الدخيل له الأمان عندنا,Facebook,Bedouin,High,Neutral
+285,القبيلة تحمي أفرادها وما تخليهم,LLM,Bedouin,High,Neutral
+286,عرف الأجداد ما يتغير بين يوم وليلة,LLM,Bedouin,High,Neutral
+287,الصلح يبيّض الوجه ويرضي الطرفين,Twitter,Bedouin,High,Neutral
+288,اللي يخالف العرف يعاقب من القبيلة,Facebook,Bedouin,High,Neutral
+289,المنشد ينشد والقاضي يحكم,Twitter,Bedouin,High,Neutral
+290,العطوة ما تنرد من أصحاب الشيم,LLM,Bedouin,High,Neutral
+291,الشيخ يسمع الطرفين قبل ما يحكم,Twitter,Bedouin,High,Neutral
+292,كلام الكبار يُسمع ويُحترم,Facebook,Bedouin,Medium,Neutral
+293,الذمة والشرف أغلى من المال,Facebook,Bedouin,High,Positive
+294,الجاهة تجي بالطيب وتطلب الصفح,Facebook,Bedouin,High,Positive
+295,العدل أساس الملك والحكم,LLM,Bedouin,Medium,Positive
+296,اللي ما يحترم العرف ما يحترمونه الناس,Facebook,Bedouin,High,Neutral
+297,القبيلة كلها مسؤولة عن أفعال أبنائها,LLM,Bedouin,High,Neutral
+298,قلت قصيدة بالمجلس وعجبت الحضور,Twitter,Bedouin,High,Positive
+299,الشاعر بدأ يلقي والكل ساكت يسمع,Facebook,Bedouin,High,Neutral
+300,القصيد النبطي فن أصيل عندنا,Facebook,Bedouin,High,Positive
+301,شعر الغزل حلو لكن شعر الحماسة أحلى,Twitter,Bedouin,Medium,Positive
+302,المحاورة بين الشاعرين سخنت الجو,Twitter,Bedouin,High,Neutral
+303,يا شاعر قل لنا أبيات تفرح القلب,Twitter,Bedouin,High,Neutral
+304,الشعر ديوان العرب ومرآة حالهم,Twitter,Bedouin,Medium,Neutral
+305,كتبت قصيدة مدح بالشيخ,LLM,Bedouin,High,Neutral
+306,الهجيني يُقال على ظهر الذلول,LLM,Bedouin,High,Neutral
+307,شاعرنا معروف بقصايده الحلوة,LLM,Bedouin,High,Positive
+308,المجالس تزيّنها القصايد والسوالف,LLM,Bedouin,High,Positive
+309,الشعر يوصف اللي بالقلب ما تقدر تقوله,Twitter,Bedouin,Medium,Neutral
+310,قصيدة الحماسة ترفع الهمة,LLM,Bedouin,Medium,Neutral
+311,الشاعر المليح يعرف يوزن الكلام,Facebook,Bedouin,High,Neutral
+312,النبط فن قديم وأصيل عند البدو,Facebook,Bedouin,High,Positive
+313,يا شاعر زدنا من القصيد الحلو,LLM,Bedouin,High,Positive
+314,الشعر ينقل أخبار القبايل,Facebook,Bedouin,High,Neutral
+315,المسامرة حلوة مع القصيد والقهوة,LLM,Bedouin,High,Positive
+316,القصيدة اللي قالها عمي ما زالت تنقال,LLM,Bedouin,High,Neutral
+317,الشاعر يمدح ربعه ويفخر بهم,LLM,Bedouin,High,Positive
+318,رحلنا من الديرة وضربنا الخيام بالشمال,Facebook,Bedouin,High,Neutral
+319,الطريق طويل بس الله يسهّل,Facebook,Bedouin,Medium,Neutral
+320,حملنا أمتعتنا على الجمال ورحلنا,LLM,Bedouin,High,Neutral
+321,المرعى بعيد ولازم ننتقل له,LLM,Bedouin,High,Neutral
+322,النجعة هالسنة للشمال والربيع هناك,LLM,Bedouin,High,Positive
+323,الدرب طويل والصحرا واسعة بس نعرف الطريق,LLM,Bedouin,High,Neutral
+324,وصلنا بعد سفر طويل والحمد لله,Twitter,Bedouin,Medium,Positive
+325,خيامنا بمكان جديد والماء قريب,LLM,Bedouin,High,Neutral
+326,النجوم دليلنا بالليل بالصحرا,Twitter,Bedouin,High,Neutral
+327,مشينا يومين ووصلنا المرعى الجديد,LLM,Bedouin,High,Neutral
+328,الإبل محملة والرحلة بدأت,LLM,Bedouin,High,Neutral
+329,نتنقل مع الخصب والمطر,Facebook,Bedouin,High,Neutral
+330,كل موسم ننتقل لمكان أحسن,Twitter,Bedouin,High,Positive
+331,الحل والترحال عادتنا من القدم,LLM,Bedouin,High,Positive
+332,وصلنا الماء والإبل ارتوت,Twitter,Bedouin,High,Neutral
+333,الخيمة انضربت والمكان حلو,LLM,Bedouin,High,Neutral
+334,سرنا بالليل وبالنهار نستريح,Facebook,Bedouin,High,Neutral
+335,الطريق وعر بس الرجال ما توقفوا,Facebook,Bedouin,Medium,Neutral
+336,نعرف كل درب بالصحرا من زمن جدودنا,Facebook,Bedouin,High,Neutral
+337,الرحلة تحتاج صبر وعزيمة,Twitter,Bedouin,Medium,Positive
+338,وش لون الحال,LLM,Bedouin,Medium,Neutral
+339,الله يعطيك العافية,Twitter,Bedouin,Medium,Positive
+340,يعافيك ربي,Twitter,Bedouin,Medium,Neutral
+341,وش عندك اخبار,LLM,Bedouin,Medium,Neutral
+342,تراها بسيطة لا تكبّرها,LLM,Bedouin,Medium,Neutral
+343,خل عنك لا تشيل هم,LLM,Bedouin,Medium,Neutral
+344,يا زينك يا ولد,Facebook,Bedouin,Medium,Positive
+345,الله يسلمك يا خوي,Twitter,Bedouin,Medium,Positive
+346,مشكور يا طيب,Twitter,Bedouin,Medium,Positive
+347,الله لا يهينك,Twitter,Bedouin,Medium,Neutral
+348,وش ذا اللي سويته,Twitter,Bedouin,Medium,Neutral
+349,لا تعجّل الأمور تجي بوقتها,Twitter,Bedouin,Medium,Neutral
+350,تعال اقعد معنا شوي,Facebook,Bedouin,Medium,Neutral
+351,أبشر يا ولدي ما عليك,LLM,Bedouin,High,Positive
+352,ما عليه خير إن شاء الله,Facebook,Bedouin,Medium,Positive
+353,يالله عسى الله يوفقك,Facebook,Bedouin,Medium,Positive
+354,ترا ما قصّرت يا خوي,Facebook,Bedouin,Medium,Neutral
+355,وش هالطاري اللي جابك,LLM,Bedouin,High,Neutral
+356,أنا عند كلمتي وما أحيد عنها,LLM,Bedouin,High,Neutral
+357,خير إن شاء الله وش صار,Twitter,Bedouin,Medium,Positive
+358,روح الله يحفظك,Facebook,Bedouin,Medium,Positive
+359,تدلّل يا ابن العم,Twitter,Bedouin,High,Neutral
+360,والله ما أدري وش أقول,LLM,Bedouin,Medium,Neutral
+361,يا حيّه يا ولد العم,LLM,Bedouin,High,Neutral
+362,الله يرحم والديك,LLM,Bedouin,Medium,Neutral
+363,بيض الله وجهك يا رجال,LLM,Bedouin,High,Positive
+364,خذ راحتك يا ضيفنا,Twitter,Bedouin,High,Neutral
+365,ما شاء الله تبارك الله,Twitter,Bedouin,Medium,Positive
+366,الله يكتب لك الخير,LLM,Bedouin,Medium,Positive
+367,حيّاك الله يا غالي,Twitter,Bedouin,High,Positive
+368,طلعنا نقنص بالبر وصدنا أرنب,Twitter,Bedouin,High,Neutral
+369,الصقر انقض على الحبارى وما أفلتت,Twitter,Bedouin,High,Neutral
+370,القنص هواية الرجال من قديم الزمان,Twitter,Bedouin,High,Neutral
+371,دربنا الصقر ليوم الصيد,LLM,Bedouin,High,Neutral
+372,الكلاب السلوقية سريعة بالقنص,LLM,Bedouin,High,Neutral
+373,رحنا رحلة صيد وجبنا غزال,Twitter,Bedouin,High,Positive
+374,الصقّار يعرف يتعامل مع الطير,LLM,Bedouin,High,Neutral
+375,القنص بالشتا أحلى والطقس يساعد,LLM,Bedouin,High,Positive
+376,صقرنا حر أصيل وما يفشل,LLM,Bedouin,High,Positive
+377,الصيد رزق من الله,Facebook,Bedouin,Medium,Neutral
+378,الليلة نقنص ومعنا الكشاف,LLM,Bedouin,High,Neutral
+379,الصقر الحر أغلى من الذهب عندنا,Facebook,Bedouin,High,Neutral
+380,طلعنا للبر ومعنا البندق والصقر,LLM,Bedouin,High,Neutral
+381,صدنا حبارى وشويناها على النار,Twitter,Bedouin,High,Neutral
+382,القناص لازم يكون صبور ويعرف الوقت المناسب,LLM,Bedouin,High,Neutral
+383,الضبان كثيرة بالبر هالأيام,Facebook,Bedouin,High,Positive
+384,طيرنا الصقر على الفريسة وجابها,LLM,Bedouin,High,Neutral
+385,رحلة القنص تحتاج تجهيز من الليل,Facebook,Bedouin,High,Neutral
+386,الصياد الشاطر ما يرجع بدون صيد,Facebook,Bedouin,High,Neutral
+387,تدربت على الرماية من صغري,LLM,Bedouin,High,Neutral
+388,زرعنا القمح بالخريف وإن شاء الله نحصد بالربيع,LLM,Bedouin,High,Positive
+389,البير حفرناه عميق ولقينا ماء,LLM,Bedouin,High,Neutral
+390,النخل محتاج سقي والماء قليل,Facebook,Bedouin,High,Neutral
+391,الأرض خصبة والزرع طالع حلو,Twitter,Bedouin,High,Neutral
+392,حصدنا الشعير وخزنّاه للحلال,Twitter,Bedouin,High,Neutral
+393,الفلج يجري والماء يسقي البستان,LLM,Bedouin,High,Neutral
+394,غرسنا نخل جديد بالمزرعة,LLM,Bedouin,High,Neutral
+395,موسم التمر جا ولازم نصرم النخل,Facebook,Bedouin,High,Positive
+396,الماء أساس الحياة وبدونه ما نقدر,LLM,Bedouin,Medium,Neutral
+397,سقينا الزرع من البير بالدلو,Facebook,Bedouin,High,Neutral
+398,الأرض عطشانة والمطر تأخر علينا,Twitter,Bedouin,High,Negative
+399,التمر يابس وجاهز للتخزين,Twitter,Bedouin,High,Positive
+400,عندنا بستان نخل كبير والحمد لله,LLM,Bedouin,High,Positive
+401,الحصاد هالسنة وفير والخير كثير,LLM,Bedouin,High,Positive
+402,البير قرب يجف ولازم نحفر واحد ثاني,Twitter,Bedouin,High,Neutral
+403,النخل طرح رطب حلو المذاق,Twitter,Bedouin,High,Positive
+404,سوّينا حديقة صغيرة جنب الخيمة,Facebook,Bedouin,High,Neutral
+405,الماء بارد من البير ولذيذ,LLM,Bedouin,High,Positive
+406,زرعنا برسيم للحلال يتغذى عليه,LLM,Bedouin,High,Neutral
+407,الأرض خضرت بعد المطر والحمد لله,LLM,Bedouin,High,Positive
+408,أبوي علمني الرجولة من صغري,Twitter,Bedouin,High,Neutral
+409,جدي كان شيخ القبيلة والكل يحترمه,Twitter,Bedouin,High,Neutral
+410,أمي تدعي لنا كل يوم الله يحفظها,LLM,Bedouin,Medium,Positive
+411,ابن العم قريب ولو بعد المسافة,Twitter,Bedouin,High,Neutral
+412,القبيلة كلها عيلة واحدة,LLM,Bedouin,High,Neutral
+413,الكبير عندنا محترم والصغير محبوب,LLM,Bedouin,High,Positive
+414,عيالنا تربوا على العادات والتقاليد,Facebook,Bedouin,High,Positive
+415,نسب عيلتنا معروف ومحفوظ,Facebook,Bedouin,High,Neutral
+416,الخال سند والعم عزوة,Facebook,Bedouin,High,Neutral
+417,الأم أغلى من الدنيا كلها,Facebook,Bedouin,Medium,Neutral
+418,تزوجت من بنت عمي على سنة الله ورسوله,LLM,Bedouin,High,Neutral
+419,أولادي كبروا والحمد لله وصاروا رجال,Facebook,Bedouin,Medium,Positive
+420,الجد يحكي لنا سوالف القبيلة,LLM,Bedouin,High,Neutral
+421,الأب يعلم ولده الرماية وركوب الخيل,Twitter,Bedouin,High,Neutral
+422,بيتنا يجمع الكبير والصغير,LLM,Bedouin,Medium,Neutral
+423,نسل عيلتنا كبير والحمد لله,LLM,Bedouin,High,Positive
+424,القبيلة تحمي بناتها وتكرمهن,Twitter,Bedouin,High,Positive
+425,جدتي كانت تحكي لنا قصص من القديم,Twitter,Bedouin,High,Neutral
+426,أخوي الكبير مثل أبوي يراعيني,LLM,Bedouin,Medium,Neutral
+427,بنات القبيلة محترمات ومصونات,Facebook,Bedouin,High,Neutral
+428,الأهل يجتمعون كل خميس على العشا,LLM,Bedouin,Medium,Neutral
+429,عيلتنا من أكبر عيال القبيلة,Twitter,Bedouin,High,Positive
+430,جدي ورثنا الشجاعة والكرم,Twitter,Bedouin,High,Positive
+431,الوالد كلمته واحدة وما يتراجع,LLM,Bedouin,High,Neutral
+432,نحترم كبارنا ونحنّ على صغارنا,Twitter,Bedouin,Medium,Positive
+433,الفرس العربية أصيلة وسريعة,LLM,Bedouin,High,Positive
+434,ركبت الخيل من صغري وتعلمت الفروسية,Twitter,Bedouin,High,Neutral
+435,الحصان الأصيل يعرف صاحبه,Twitter,Bedouin,High,Positive
+436,عندنا خيل عربية أصيلة من سلالة قديمة,LLM,Bedouin,High,Positive
+437,المهرة ولدت وأمها ترضعها,Twitter,Bedouin,High,Neutral
+438,الفارس ما ينزل من على فرسه بالمعركة,LLM,Bedouin,High,Neutral
+439,سباق الخيل عندنا من أقدم التقاليد,Facebook,Bedouin,High,Positive
+440,الخيل تحتاج عناية واهتمام كبير,Facebook,Bedouin,Medium,Neutral
+441,فرسنا فازت بالسباق والحمد لله,LLM,Bedouin,High,Positive
+442,الخيل العربية مشهورة بالعالم كله,LLM,Bedouin,High,Neutral
+443,الفرس الأصيلة ما تخلّي فارسها,Facebook,Bedouin,High,Positive
+444,نطعم الخيل شعير وبرسيم,LLM,Bedouin,High,Neutral
+445,السرج والجام لازم يكونون نظيفين,Facebook,Bedouin,High,Neutral
+446,أبوي كان فارس مشهور بالقبيلة,LLM,Bedouin,High,Neutral
+447,الخيل في الحرب أهم من السلاح,LLM,Bedouin,High,Neutral
+448,ربينا المهرة لين كبرت وصارت فرس قوية,Twitter,Bedouin,High,Neutral
+449,الحصان الأدهم أسرع من الريح,Twitter,Bedouin,High,Neutral
+450,الفارس والفرس صاحبين من القدم,Facebook,Bedouin,High,Positive
+451,الخيل تحب صاحبها وتحس فيه,Facebook,Bedouin,Medium,Neutral
+452,عندنا اسطبل فيه عشر خيل أصيلة,LLM,Bedouin,High,Positive
+453,يا عمّي وين أهلك الحين,LLM,Bedouin,Medium,Neutral
+454,قعدنا بالمجلس لين نص الليل,LLM,Bedouin,High,Neutral
+455,الليلة باردة ولازم نكثّر الحطب,LLM,Bedouin,High,Neutral
+456,صبّينا الشاهي ونحمّسنا البن,LLM,Bedouin,High,Neutral
+457,الصبح بدري والديكة صاحت,Facebook,Bedouin,High,Neutral
+458,خلّونا ننام بدري بكرة علينا شغل,Twitter,Bedouin,Medium,Neutral
+459,الولد تعلم يركب الذلول,LLM,Bedouin,High,Positive
+460,البنت تغزل الصوف زي أمها,LLM,Bedouin,High,Neutral
+461,الجدة تعلم البنات الطبخ البدوي,LLM,Bedouin,High,Neutral
+462,سوّينا جريش بالدهن البلدي,Facebook,Bedouin,High,Neutral
+463,الكبسة باللحم أحلى شي بالعشا,Twitter,Bedouin,High,Positive
+464,المرقوق سويناه بالبر واللحم,Facebook,Bedouin,High,Neutral
+465,نطبخ على الحطب والأكل يطلع ألذ,Twitter,Bedouin,High,Positive
+466,جهزنا الزاد للرحلة,Facebook,Bedouin,High,Neutral
+467,العيال تعلموا الرماية والركوب,Twitter,Bedouin,High,Positive
+468,الرجال سهروا والقهوة ما انقطعت,LLM,Bedouin,High,Neutral
+469,سمعنا صوت ذيب بالليل,Facebook,Bedouin,High,Neutral
+470,الكلاب تحرس الخيام بالليل,Facebook,Bedouin,High,Neutral
+471,أشعلنا النار ودفينا عليها,Facebook,Bedouin,High,Neutral
+472,المجلس مليان والسوالف حلوة,Twitter,Bedouin,High,Positive
+473,يا ولد ناد أخوك يجي يتعشى,Twitter,Bedouin,Medium,Neutral
+474,الأكل جاهز تعالوا كلوا,Facebook,Bedouin,Medium,Neutral
+475,نحن من أهل البادية ونفتخر,LLM,Bedouin,High,Positive
+476,العرب كانوا يتنقلون مع المطر,LLM,Bedouin,High,Neutral
+477,الصحرا فيها جمال ما تلقاه بغيرها,LLM,Bedouin,High,Neutral
+478,يا خوي تعال نتمشى بالبر,Twitter,Bedouin,High,Neutral
+479,شفنا ثعلب بالبر وهرب,Facebook,Bedouin,High,Neutral
+480,الضب يطلع بالصيف من جحره,LLM,Bedouin,High,Neutral
+481,القنفذ مشى ببطء والعيال يتفرجون,Twitter,Bedouin,High,Neutral
+482,طلعنا نجمع فقع بعد المطر,Facebook,Bedouin,High,Neutral
+483,حنا بدو ونفتخر بأصلنا,LLM,Bedouin,High,Positive
+484,المضيف مفتوح لكل زائر,LLM,Bedouin,High,Neutral
+485,الشتا قرب والبرد جاي,Facebook,Bedouin,Medium,Neutral
+486,فصلنا ثوب جديد للعيد,LLM,Bedouin,High,Neutral
+487,العيد عندنا فرحة كبيرة ونذبح ونكرم,Twitter,Bedouin,High,Positive
+488,الجمعة نروح نزور الأهل,Facebook,Bedouin,Medium,Neutral
+489,الصيف طويل والبرد قصير عندنا,Twitter,Bedouin,Medium,Neutral
+490,لبسنا البشت وروحنا المناسبة,Facebook,Bedouin,High,Neutral
+491,الطفل يتعلم من أبوه كل شي,LLM,Bedouin,Medium,Neutral
+492,حنا ناس طيبين ونحب الخير للكل,LLM,Bedouin,Medium,Positive
+493,القبيلة تجتمع بالمناسبات الكبيرة,Twitter,Bedouin,High,Neutral
+494,نار الشتا دافية والسوالف حلوة,LLM,Bedouin,High,Positive
+495,الجمر أحمر والقهوة تفور,Facebook,Bedouin,High,Neutral
+496,سرينا بالليل والنجوم تضوي لنا,LLM,Bedouin,High,Neutral
+497,الرحلة كانت طويلة بس ما تعبنا,Facebook,Bedouin,Medium,Positive
+498,إذا جاك ضيف أكرمه ولو ما تعرفه,LLM,Bedouin,High,Positive
+499,الولد لازم يتعلم الشجاعة من صغره,LLM,Bedouin,High,Neutral
+500,المرأة البدوية تنصب الخيمة وتحلب الناقة,LLM,Bedouin,High,Neutral
+501,أبوي يحكي لنا عن أيام الطيبين,Twitter,Bedouin,High,Positive
+502,زمان كان الناس أطيب والحياة أبسط,Twitter,Bedouin,Medium,Positive
+503,الجو صحو والسما صافية اليوم,LLM,Bedouin,Medium,Positive
+504,قطعنا الوادي ووصلنا الجهة الثانية,Facebook,Bedouin,High,Neutral
+505,الذيب ما ياكل من حلال الجيران,Twitter,Bedouin,High,Neutral
+506,حطينا السدو على الأرض وفرشنا المجلس,LLM,Bedouin,High,Neutral
+507,المرأة تسوي السدو وتطرّزه,Twitter,Bedouin,High,Neutral
+508,الحنّاء تزيّن يد العروس,LLM,Bedouin,High,Positive
+509,الطفل يلعب بالرمل والأم تراقبه,LLM,Bedouin,Medium,Neutral
+510,خبز التنور أحلى من خبز الفرن,LLM,Bedouin,High,Positive
+511,اللبن الرائب بارد ولذيذ بالصيف,LLM,Bedouin,High,Positive
+512,الكليجا والبسكوت من حلويات البادية,Facebook,Bedouin,High,Positive
+513,الوسم نزل والأرض بتخضر إن شاء الله,Twitter,Bedouin,High,Neutral
+514,السيل جا من الجبل وملا الوادي,Facebook,Bedouin,High,Neutral
+515,الربيع جا والأرض مفروشة ورد,Twitter,Bedouin,High,Positive
+516,القيظ بدأ والحرارة مرتفعة,Twitter,Bedouin,High,Neutral
+517,الصرصر هبّ والرمل ثار,LLM,Bedouin,High,Neutral
+518,المطر غسل الصحرا وريحته حلوة,Twitter,Bedouin,High,Positive
+519,الشتا طويل هالسنة والبرد شديد,LLM,Bedouin,High,Neutral
+520,السحاب تلبّد والمطر قريب,LLM,Bedouin,Medium,Neutral
+521,الندى نزل بالصبح والأرض رطبة,Twitter,Bedouin,High,Neutral
+522,الحر خفّ والنسمة باردة,LLM,Bedouin,Medium,Neutral
+523,البرق لمع بالسما والرعد دوّى,LLM,Bedouin,High,Neutral
+524,الضباب كثيف الصبح وما نشوف قدامنا,LLM,Bedouin,Medium,Neutral
+525,الريح جنوبية وحارة اليوم,LLM,Bedouin,High,Neutral
+526,الصيف قارب والنخل بيثمر,Facebook,Bedouin,High,Neutral
+527,الشمس حامية ونحتاج ظل,Twitter,Bedouin,Medium,Neutral
+528,نجوم الليل كثيرة ما تنعد,Facebook,Bedouin,High,Positive
+529,البرد كسّر والثلج نزل على القمم,Facebook,Bedouin,High,Neutral
+530,ريح القوس هبّت بعد المطر,LLM,Bedouin,High,Neutral
+531,الجو معتدل والسما صافية والحمد لله,Facebook,Bedouin,Medium,Positive
+532,العاصفة هدت وصفت السما,LLM,Bedouin,High,Positive
+533,يا عيال خلوا السوالف لبعدين,LLM,Bedouin,Medium,Neutral
+534,الرجال ما تنكسر كلمته,LLM,Bedouin,High,Positive
+535,ما نامن غير ما نطمن على الحلال,Twitter,Bedouin,High,Neutral
+536,الغترة والعقال زينة الراس,LLM,Bedouin,High,Positive
+537,البشت حقّ المناسبات والمجالس,Twitter,Bedouin,High,Neutral
+538,الخنجر من تراث جدودنا,LLM,Bedouin,High,Neutral
+539,السيف والبندق عدة الرجال,LLM,Bedouin,High,Neutral
+540,بيت الشعر من وبر الإبل,Facebook,Bedouin,High,Neutral
+541,المحالة نسويها بالصيف والجو حار,LLM,Bedouin,High,Neutral
+542,الربابة تعزف والشاعر ينشد,Twitter,Bedouin,High,Neutral
+543,عندنا عادة القهوة ما تتغير,Facebook,Bedouin,High,Neutral
+544,الدلة النجدية شكلها مميز,Facebook,Bedouin,High,Neutral
+545,نحمّص البن ونطحنه بالنجر,LLM,Bedouin,High,Neutral
+546,صوت الهاون يسمعونه الجيران,Facebook,Bedouin,High,Neutral
+547,المبخرة تعطر المجلس,Twitter,Bedouin,High,Neutral
+548,العود والبخور من عاداتنا,Facebook,Bedouin,Medium,Neutral
+549,المجلس عامر بالرجال والقهوة,Twitter,Bedouin,High,Positive
+550,نلبس الثوب الأبيض والشماغ الأحمر,Facebook,Bedouin,High,Neutral
+551,عباية أمي مطرزة بالإيد,LLM,Bedouin,High,Neutral
+552,المرأة البدوية قوية ومعتمدة على نفسها,LLM,Bedouin,High,Neutral
+553,الحطب نجمعه من الأشجار الميتة,Facebook,Bedouin,High,Neutral
+554,القربة فيها ماء بارد للشرب,LLM,Bedouin,High,Neutral
+555,السفرة فيها تمر ولبن وخبز,Twitter,Bedouin,High,Neutral
+556,نجلس على الأرض ونفرش البساط,LLM,Bedouin,High,Neutral
+557,الشب ما يتزوج إلا بعد ما يثبت نفسه,LLM,Bedouin,High,Neutral
+558,العقل قبل الشجاعة عند البدوي,Twitter,Bedouin,Medium,Neutral
+559,الأصيل يبان من فعاله مو من كلامه,Facebook,Bedouin,Medium,Positive
+560,حنا أهل البر والصحرا وما نبدلها بشي,Twitter,Bedouin,High,Neutral
+561,الليل ساكت وما فيه إلا صوت الريح,LLM,Bedouin,High,Neutral
+562,القمر طالع والدنيا نور,Twitter,Bedouin,Medium,Neutral
+563,بعنا الإبل بالسوق وجبنا سعر طيب,LLM,Bedouin,High,Neutral
+564,التاجر جا يشتري صوف من عندنا,Facebook,Bedouin,High,Neutral
+565,سوق الحلال يوم الخميس وكل القبايل تحضر,LLM,Bedouin,High,Neutral
+566,ثمن الناقة الأصيلة ما يتفاوض عليه,LLM,Bedouin,High,Positive
+567,بعنا التمر وشرينا قمح ورز,Facebook,Bedouin,High,Neutral
+568,القافلة وصلت ومعها بضاعة كثيرة,LLM,Bedouin,High,Positive
+569,التجارة عندنا على الأمانة والصدق,Facebook,Bedouin,High,Positive
+570,كيلة التمر بسعر اليوم غالية,Twitter,Bedouin,High,Positive
+571,السوق مليان والناس تبيع وتشتري,Twitter,Bedouin,Medium,Neutral
+572,بعنا الصوف والجلود واشترينا أغراض,Twitter,Bedouin,High,Neutral
+573,التاجر كلمته واحدة زي الرجال,LLM,Bedouin,High,Neutral
+574,الحلال سمين وسعره طيب بالسوق,Facebook,Bedouin,High,Positive
+575,جبنا بضاعة من المدينة للبادية,Twitter,Bedouin,High,Neutral
+576,الميزان لازم يكون عدل والتجارة أمانة,Facebook,Bedouin,High,Positive
+577,شرينا فحم وحطب للشتا,Facebook,Bedouin,High,Neutral
+578,الجوع ما يكسر رجال أصيل,LLM,Bedouin,High,Positive
+579,صبرنا على الشدة والله ما خيّبنا,Facebook,Bedouin,High,Neutral
+580,المحل ضرب الأرض والماء شح,Facebook,Bedouin,High,Negative
+581,الأيام ما تبقى على حال واحد,Twitter,Bedouin,Medium,Neutral
+582,السنين الصعبة تصنع رجال أقوياء,Twitter,Bedouin,Medium,Positive
+583,الصبر على البلا من شيم الأصيلين,Twitter,Bedouin,High,Positive
+584,الجدب ضرب والحلال ضعف,LLM,Bedouin,High,Negative
+585,ما ننكسر مهما صارت الظروف,LLM,Bedouin,High,Positive
+586,الحياة بالصحرا صعبة بس تعلمك القوة,Facebook,Bedouin,High,Positive
+587,رحلنا من مكان لمكان ندوّر الماء والمرعى,LLM,Bedouin,High,Neutral
+588,الشدة ما تدوم والفرج من الله,Facebook,Bedouin,Medium,Neutral
+589,تحمّلنا الحر والبرد وما شكينا,Facebook,Bedouin,High,Neutral
+590,المحل طوّل وما نزل مطر من شهور,Twitter,Bedouin,High,Negative
+591,الرجال ما تبكي بس تصبر وتتوكل,LLM,Bedouin,High,Positive
+592,عشنا أيام صعبة بس الله كريم,LLM,Bedouin,Medium,Positive
+593,مع السلامة يا خوي الله يوصلك بالسلامة,LLM,Bedouin,High,Positive
+594,حي الله بالرجال والله اشتقنا لكم,Facebook,Bedouin,High,Positive
+595,يا مرحبا بالغالين نورتوا المكان,LLM,Bedouin,High,Positive
+596,الله يسهّل دربك يا ولدي,Twitter,Bedouin,High,Neutral
+597,وحشتنا يا خوي من زمان ما شفناك,Facebook,Bedouin,High,Neutral
+598,يالله بالسلامة وترجع بالخير,Twitter,Bedouin,High,Positive
+599,الله لا يغيّر عليك يا طيب,LLM,Bedouin,High,Positive
+600,حيّا الله من جا ونوّر المكان,Facebook,Bedouin,High,Positive
+601,الله يحفظك ويسلمك من كل شر,LLM,Bedouin,Medium,Positive
+602,أهلاً وسهلاً فيك يا ابن الحلال,LLM,Bedouin,High,Positive
+603,تفضل اقعد والبيت بيتك,Facebook,Bedouin,High,Neutral
+604,شرّفتنا يا بو فلان تفضل للمجلس,LLM,Bedouin,High,Neutral
+605,يا هلا بالطيبين حيّاكم الله,Facebook,Bedouin,High,Positive
+606,الله يطوّل بعمرك يا عمّي,Twitter,Bedouin,Medium,Neutral
+607,ما تقصّر يا ولد العم دايم تتذكرنا,Twitter,Bedouin,High,Neutral
+608,الجريش باللحم والسمن البلدي أحلى أكل,Facebook,Bedouin,High,Positive
+609,سوّينا ثريد باللحم والمرق,LLM,Bedouin,High,Neutral
+610,حنيذ اللحم بالتنور طلع لذيذ,LLM,Bedouin,High,Positive
+611,المنسف بالجميد واللحم على الرز,LLM,Bedouin,High,Neutral
+612,خبز الصاج طازج ولذيذ,Facebook,Bedouin,High,Positive
+613,سوّينا حاشي ارز بلحم,LLM,Bedouin,High,Neutral
+614,العصيدة بالتمر والسمن أحلى شي,Twitter,Bedouin,High,Positive
+615,حلبنا الغنم وسوّينا جبن بلدي,Facebook,Bedouin,High,Positive
+616,القرصان بالمرق يدفّي بالشتا,LLM,Bedouin,High,Neutral
+617,التمر واللبن فطور البدوي,Twitter,Bedouin,High,Neutral
+618,المظبي على الحجر طلع زي العسل,Twitter,Bedouin,High,Neutral
+619,الزبدة البلدية من حليب الغنم,LLM,Bedouin,High,Neutral
+620,طبخنا المعصوب بالموز والعسل,Facebook,Bedouin,High,Neutral
+621,الحليب طازج من الناقة وحلو,LLM,Bedouin,High,Positive
+622,سوّينا مضغوط باللحم والرز,Facebook,Bedouin,High,Neutral
+623,جدي يقول اسمع كلام الكبار تسلم,LLM,Bedouin,High,Neutral
+624,أبوي علمني إن الرجال بكلمته,Twitter,Bedouin,High,Neutral
+625,الكبار يقولون الطيب ما يضيع,LLM,Bedouin,Medium,Positive
+626,من زمن جدودنا ونحن على هالطريقة,Facebook,Bedouin,High,Neutral
+627,الجد يقول اللي ما له أول ما له آخر,Twitter,Bedouin,Medium,Neutral
+628,تعلمت من جدي إن الصبر ينفع صاحبه,Twitter,Bedouin,Medium,Positive
+629,كلام الأجداد حكمة ما تتغير,LLM,Bedouin,Medium,Neutral
+630,عمي يقول الرجال مواقف مو كلام,LLM,Bedouin,High,Neutral
+631,أبوي كان يقول احفظ لسانك يحفظك,LLM,Bedouin,Medium,Neutral
+632,الكبار عندنا مدرسة نتعلم منها,Facebook,Bedouin,Medium,Neutral
+633,جدتي تقول البنت بأخلاقها مو بشكلها,Twitter,Bedouin,High,Neutral
+634,من حكم جدي اللي يزرع يحصد,Facebook,Bedouin,Medium,Neutral
+635,أبوي قال لي كون مع الحق لو كان ضدك,LLM,Bedouin,Medium,Neutral
+636,الجد يوصي اكرم الجار والضيف,LLM,Bedouin,High,Positive
+637,كبارنا يقولون العرض أغلى من المال,Facebook,Bedouin,High,Neutral
+638,الشرف عندنا فوق كل اعتبار,Twitter,Bedouin,High,Positive
+639,الرجال تنكسر ولا تنحني,LLM,Bedouin,High,Positive
+640,العرض والشرف ما لهم ثمن,LLM,Bedouin,High,Positive
+641,الكرامة أغلى من الروح عندنا,Facebook,Bedouin,High,Positive
+642,البدوي يموت ولا يعيش ذليل,LLM,Bedouin,High,Positive
+643,الشهامة والمروءة من صفات الأصيل,LLM,Bedouin,High,Positive
+644,نحمي العرض بالدم لو لزم الأمر,Twitter,Bedouin,High,Neutral
+645,الكذب عيب والصدق منجاة,LLM,Bedouin,Medium,Positive
+646,الغدر ما يصدر من الأصيل أبد,LLM,Bedouin,High,Neutral
+647,الوفا صفة ما يحملها إلا الرجال,LLM,Bedouin,High,Positive
+648,كلمة الشرف ما تنكسر عندنا,Facebook,Bedouin,High,Neutral
+649,الجبان ما له مكان بين الرجال,Facebook,Bedouin,High,Negative
+650,الأمانة فوق كل شي والخيانة عيب,LLM,Bedouin,High,Neutral
+651,نفتخر بأصلنا ونحافظ على شرفنا,LLM,Bedouin,High,Positive
+652,الرجال الأصيل ما يخون عهده أبد,LLM,Bedouin,High,Positive
+653,سهرنا على ضو القمر والسوالف ما خلصت,Facebook,Bedouin,High,Neutral
+654,الثريا بانت بالسما والوقت تأخر,LLM,Bedouin,High,Neutral
+655,ليالي الصحرا حلوة والنجوم قريبة,LLM,Bedouin,High,Positive
+656,نهتدي بالنجم القطبي بالسفر بالليل,Twitter,Bedouin,High,Neutral
+657,السما مليانة نجوم والقمر بدر,Facebook,Bedouin,High,Neutral
+658,الليل هادي وما فيه إلا صوت الجنادب,LLM,Bedouin,High,Positive
+659,قعدنا حول النار ننتظر الفجر,Facebook,Bedouin,High,Neutral
+660,سهرة الليلة حلوة مع الربع,Facebook,Bedouin,Medium,Positive
+661,الليل طويل بالشتا والسوالف أطول,LLM,Bedouin,High,Neutral
+662,ضو القمر ينوّر الصحرا كأنه نهار,LLM,Bedouin,High,Positive
+663,النجمة سهيل بانت ودخل وقت الحر,LLM,Bedouin,High,Neutral
+664,سمعنا صوت البوم بالليل,LLM,Bedouin,High,Neutral
+665,الليل بالبادية ساكن وهادي,Facebook,Bedouin,High,Positive
+666,ولعنا نار كبيرة ودفّينا عليها,LLM,Bedouin,High,Neutral
+667,القمر غاب والظلام شديد,LLM,Bedouin,High,Neutral
+668,جدي حارب وانتصر والكل يتذكره,Twitter,Bedouin,High,Positive
+669,قبيلتنا عندها تاريخ طويل ومشرّف,Twitter,Bedouin,High,Neutral
+670,أبوي يحكي لنا كيف كانوا يعيشون قبل,LLM,Bedouin,High,Neutral
+671,نحفظ تاريخ القبيلة ونورّثه للأجيال,Twitter,Bedouin,High,Positive
+672,جدي كان يعرف كل درب بالصحرا,Facebook,Bedouin,High,Neutral
+673,القصص اللي يحكونها الكبار فيها عبر كثيرة,Twitter,Bedouin,High,Positive
+674,من أيام جدي والقبيلة معروفة بالكرم,LLM,Bedouin,High,Positive
+675,أبوي ورّثنا أرض وإبل والحمد لله,LLM,Bedouin,High,Positive
+676,تاريخ القبيلة محفوظ بصدور الرجال,LLM,Bedouin,High,Neutral
+677,جدتي كانت شاعرة ومعروفة بالقبيلة,Facebook,Bedouin,High,Neutral
+678,حفظنا نسبنا من عشرين جد,Twitter,Bedouin,High,Neutral
+679,القبيلة هاجرت من نجد للشمال قبل مئة سنة,Facebook,Bedouin,High,Neutral
+680,جدي كان أول من حفر بير بالمنطقة,Twitter,Bedouin,High,Neutral
+681,الأجداد عاشوا حياة صعبة بس كانوا أقوياء,LLM,Bedouin,High,Positive
+682,ورثنا العادات والتقاليد من جيل لجيل,Facebook,Bedouin,High,Neutral
+683,يا عيال تعالوا نشرب قهوة بالمجلس,LLM,Bedouin,High,Positive
+684,الديرة هادية والناس طيبين,LLM,Bedouin,Medium,Positive
+685,حنا من عرب الشمال ونفتخر,LLM,Bedouin,High,Positive
+686,المضيف عندنا مفتوح أربع وعشرين ساعة,Facebook,Bedouin,High,Neutral
+687,الرجال اللي يوفي بكلمته يستاهل الاحترام,LLM,Bedouin,High,Positive
+688,حنا نشرب القهوة بدون سكر عادة,LLM,Bedouin,High,Neutral
+689,الفنجال الأول للضيف والثاني للسيف,Twitter,Bedouin,High,Neutral
+690,يا خوي تعال نتقهوى ونتسامر,Facebook,Bedouin,High,Neutral
+691,المجلس بدون قهوة ما يكمل,LLM,Bedouin,High,Neutral
+692,القهوة العربية لها طقوس ما تتغير,Facebook,Bedouin,High,Neutral
+693,نحمّص البن على النار لين يسود,LLM,Bedouin,High,Neutral
+694,الهيل والزعفران يزيّنون القهوة,LLM,Bedouin,High,Positive
+695,دقّ النجر يسمعونه الجيران ويجون,Facebook,Bedouin,High,Neutral
+696,القهوة رمز الكرم عند البدو,LLM,Bedouin,High,Positive
+697,الدلة على النار دايم جاهزة,Facebook,Bedouin,High,Positive
+698,صبّ الفنجال وقدّمه بيمينك,Twitter,Bedouin,High,Neutral
+699,ما نشرب القهوة إلا بفنجال عربي,Facebook,Bedouin,High,Neutral
+700,المعزّب يصبّ القهوة بنفسه للضيوف,LLM,Bedouin,High,Neutral
+701,ريحة البن المحمّص تملا المكان,Twitter,Bedouin,High,Neutral
+702,الثلاث فناجيل واجب والرابع إذا أحب,Twitter,Bedouin,High,Neutral
+703,حنا بدو رحّل ونتنقل مع الخصب,LLM,Bedouin,High,Neutral
+704,المطوّعة تعلم العيال القراءة والكتابة,LLM,Bedouin,High,Positive
+705,الرجال تسهر والنساء تجهز الأكل,LLM,Bedouin,High,Neutral
+706,الطفل أول ما يمشي يروح للإبل,Facebook,Bedouin,High,Positive
+707,البنت تتعلم الطبخ من أمها وجدتها,LLM,Bedouin,High,Neutral
+708,الشتا وقت السوالف والقصص,Twitter,Bedouin,High,Neutral
+709,الصيف وقت الشغل والتعب,LLM,Bedouin,Medium,Negative
+710,القبيلة تحكم بالعدل وتحل المشاكل,Facebook,Bedouin,High,Neutral
+711,الشيخ يجمع الناس ويسمع مشاكلهم,Twitter,Bedouin,High,Positive
+712,عندنا مجلس كل ليلة نتجمع فيه,Facebook,Bedouin,High,Neutral
+713,يا ولد حط حطب على النار لا تخمد,Facebook,Bedouin,High,Neutral
+714,حنا ما نقبل الظلم ولو على حساب أرواحنا,LLM,Bedouin,High,Positive
+715,الخوي الصادق أغلى من الذهب,Twitter,Bedouin,High,Positive
+716,ما نحب الغش ونمشي بالطيب,LLM,Bedouin,High,Neutral
+717,قبيلتنا مشهورة بالجود والكرم,Facebook,Bedouin,High,Positive
+718,الجمل أصبر من الإنسان بالصحرا,LLM,Bedouin,High,Positive
+719,الذلول مشت فينا يومين بدون وقوف,LLM,Bedouin,High,Positive
+720,نار المساء دافية والقهوة حاضرة,LLM,Bedouin,High,Positive
+721,الحليب الطازج أحسن من أي شراب,Facebook,Bedouin,High,Positive
+722,البدوي يعرف الطريق من رائحة الأرض,Facebook,Bedouin,High,Neutral
+723,يا زين الفرسة لما تعدو,Twitter,Bedouin,High,Positive
+724,الصقر إذا جاع صار أشرس بالصيد,LLM,Bedouin,High,Positive
+725,خويّك اللي يسندك وقت الشدة,LLM,Bedouin,High,Positive
+726,ما عندنا فرق بين غني وفقير كلنا ربع,LLM,Bedouin,High,Neutral
+727,الضيف لو يقعد شهر عندنا أهل وسهل,Facebook,Bedouin,High,Neutral
+728,ذبحنا خروف وشويناه على الجمر,Twitter,Bedouin,High,Positive
+729,القصيدة اللي قالها الشاعر هزت المجلس,LLM,Bedouin,High,Neutral
+730,الفارس ما يتراجع من المعركة,Twitter,Bedouin,High,Neutral
+731,حنا نحترم الكبير ونعطف على الصغير,LLM,Bedouin,Medium,Positive
+732,الليلة حلوة مع الربع والقهوة,Facebook,Bedouin,High,Positive
+733,السماء صافية والهوا عليل,LLM,Bedouin,Medium,Positive
+734,البدوي قنوع وراضي بما قسم الله,Twitter,Bedouin,High,Positive
+735,المطر نعمة من الله نستبشر فيه,LLM,Bedouin,Medium,Positive
+736,الأرض أخضرت والحلال سمن,Twitter,Bedouin,High,Positive
+737,النخلة شامخة مثل الرجال,LLM,Bedouin,High,Neutral
+738,يا زين الوادي بعد المطر,Twitter,Bedouin,High,Positive
+739,الفجر طلع وبان نوره على الأرض,LLM,Bedouin,High,Positive
+740,حمد الله على السلامة من السفر,LLM,Bedouin,Medium,Positive
+741,نصبنا الخيمة بمكان جديد,Twitter,Bedouin,High,Neutral
+742,العيون تشبع قبل البطون من المنظر,Facebook,Bedouin,High,Neutral
+743,خلّوا الحلال يرعى بالمرعى الجديد,LLM,Bedouin,High,Positive
+744,الجمل محمّل والرحلة بتبدأ,Twitter,Bedouin,High,Neutral
+745,لقينا مكان فيه ماء وعشب ونزلنا,LLM,Bedouin,High,Neutral
+746,القربة فيها لبن وبجنبها تمر,LLM,Bedouin,High,Neutral
+747,يا ولد جيب الحبل وربط الخيمة,LLM,Bedouin,High,Neutral
+748,الشمس طلعت ولازم نبدأ يومنا,Facebook,Bedouin,Medium,Neutral
+749,حلال عمي جا يرعى بجنب حلالنا,LLM,Bedouin,High,Positive
+750,الغنم كثيرة والحمد لله والرعي طيب,LLM,Bedouin,High,Positive
+751,البدوي يحب الفرس والذلول والصقر,Twitter,Bedouin,High,Positive
+752,يا زين القعدة مع خويّك بالبر,LLM,Bedouin,High,Positive
+753,الكنار يغرد والصبح جديد,Facebook,Bedouin,Medium,Neutral
+754,ريحة القهوة المرة تفتح النفس,LLM,Bedouin,High,Neutral
+755,المجلس فيه رجال كبار ولازم نحترمهم,Facebook,Bedouin,High,Positive
+756,الشيخ حكى والكل سمع بانتباه,LLM,Bedouin,High,Neutral
+757,الخطبة تمت والأهل تفاهموا,Facebook,Bedouin,High,Neutral
+758,العرس بعد شهر والتحضيرات بدأت,LLM,Bedouin,High,Neutral
+759,الأم فرحانة بعرس ولدها,Facebook,Bedouin,Medium,Neutral
+760,السمر والرقص الشعبي بالعرس,LLM,Bedouin,High,Neutral
+761,أبوي يبارك لنا ويدعي لنا,Facebook,Bedouin,Medium,Positive
+762,نجتمع كل عيد ونفرح مع بعض,Twitter,Bedouin,Medium,Neutral
+763,هلا والله يا طويل العمر وشلونك اليوم,LLM,Bedouin,Medium,Positive
+764,حي الله من لفانا ومرحبا مليون,LLM,Bedouin,Medium,Positive
+765,وش علومك يا بعد حيي,LLM,Bedouin,Medium,Neutral
+766,الله يحييك ويبقيك يا الغالي,LLM,Bedouin,Medium,Positive
+767,ترى السالفة ما تستاهل كل هالزعل,LLM,Bedouin,Medium,Neutral
+768,خلها على الله وتهون بإذن الله,LLM,Bedouin,Medium,Neutral
+769,يا زين سوالفك والله,LLM,Bedouin,Medium,Positive
+770,وش رايك نتمشى عقب المغرب,LLM,Bedouin,Medium,Neutral
+771,الجو اليوم يهبل ما شاء الله,LLM,Bedouin,Medium,Positive
+772,عساك دوم بخير وعافية,LLM,Bedouin,Medium,Positive
+773,ترى الدنيا ما تسوى زعل,LLM,Bedouin,Medium,Neutral
+774,صبّر نفسك وكل شي يهون,LLM,Bedouin,Medium,Neutral
+775,وشلون أهلك عساهم بخير,LLM,Bedouin,Medium,Positive
+776,مرحبا بك في ديرتك الثانية,LLM,Bedouin,Medium,Positive
+777,الله يعطيك العافية على هالشغل,LLM,Bedouin,Medium,Positive
+778,ما قصرت والله كفيت ووفيت,LLM,Bedouin,Medium,Neutral
+779,يا بعد قلبي والله,LLM,Bedouin,Medium,Neutral
+780,وش فيك متضايق اليوم,LLM,Bedouin,Medium,Neutral
+781,خل عنك التفكير الزايد,LLM,Bedouin,Medium,Neutral
+782,عساك ما تشوف شر,LLM,Bedouin,Medium,Neutral
+783,الدنيا حلوة لا تعكرها,LLM,Bedouin,Medium,Positive
+784,توكل على الله وسو اللي عليك,LLM,Bedouin,Medium,Positive
+785,يا رجال الأمور بسيطة,LLM,Bedouin,Medium,Neutral
+786,خلها تمشي مثل ما ربي كاتب,LLM,Bedouin,Medium,Neutral
+787,وش الأخبار عندكم,LLM,Bedouin,Medium,Neutral
+788,عسى أمورك طيبة,LLM,Bedouin,Medium,Positive
+789,الله يسعدك ويوفقك,LLM,Bedouin,Medium,Positive
+790,ما عليك زود يا الطيب,LLM,Bedouin,Medium,Positive
+791,يا مرحبا مليون فيك,LLM,Bedouin,Medium,Positive
+792,عساك بخير دايم,LLM,Bedouin,Medium,Positive
+793,يا هلا والله بو فلان من زمان ما شفناك,Twitter,Bedouin,High,Positive
+794,صباح الخير يا ربع شلون أحوالكم,Twitter,Bedouin,High,Positive
+795,مسا الخير على الجميع الله يسعد مساكم,LLM,Bedouin,High,Positive
+796,وش أخبار العيال والحريم الله يحفظهم,Twitter,Bedouin,High,Neutral
+797,شفت الوالد اليوم وكان بكامل صحته,Twitter,Bedouin,High,Neutral
+798,طال عمرك يا شيخ والله ما قصرت,LLM,Bedouin,High,Positive
+799,عساك من أهله يا طيب بالعيد,LLM,Bedouin,High,Positive
+800,كل عام وانتم بخير والله يعيده علينا,LLM,Bedouin,High,Positive
+801,يا بخت من عزمنا على قهوته اليوم,Twitter,Bedouin,High,Neutral
+802,يا طويل العمر كيف حال الديرة عندكم,LLM,Bedouin,High,Positive
+803,الوالد سلم عليك وقال وش حالك,Facebook,Bedouin,High,Neutral
+804,قل للربع يجون بكرة عندي على القهوة,LLM,Bedouin,High,Neutral
+805,ابشر بالي يسرك يا ابن الحلال,LLM,Bedouin,High,Positive
+806,يا زين ما جا منك يا خوي,Facebook,Bedouin,High,Positive
+807,ترى ما نفرط فيك يا ابن العم,Facebook,Bedouin,High,Neutral
+808,قولوا له السلام من عندنا إذا شفتوه,Facebook,Bedouin,High,Neutral
+809,يا رجال حنا ما ننسى الطيبين,Twitter,Bedouin,High,Positive
+810,الله يسلمك يا وجه الخير,LLM,Bedouin,High,Positive
+811,ناقتنا الشقحا ولدت الليلة وهي بخير,Facebook,Bedouin,High,Positive
+812,الحوار قام يرضع وأمه تحن عليه,LLM,Bedouin,High,Neutral
+813,إبل عمي راحت للمرعى البعيد,LLM,Bedouin,High,Neutral
+814,وردنا الإبل الصبح والماء كافي,LLM,Bedouin,High,Positive
+815,الذلول اللي ركبتها أمس ما تعبت,LLM,Bedouin,High,Positive
+816,مسمّي ناقتي الريم لأنها سريعة,Facebook,Bedouin,High,Neutral
+817,الرعيان طلعوا من الفجر ولسا ما رجعوا,LLM,Bedouin,High,Neutral
+818,ناقتنا حلوب وما تبخل بحليبها,Facebook,Bedouin,High,Positive
+819,البعير الأشقر من خيرة إبلنا,LLM,Bedouin,High,Positive
+820,علف الإبل خلّص ولازم نجيب زيادة,LLM,Bedouin,High,Neutral
+821,الإبل اتعودت على المرعى الجديد بسرعة,Facebook,Bedouin,High,Neutral
+822,وسم قبيلتنا على خد الناقة واضح,Facebook,Bedouin,High,Neutral
+823,صكينا الحلال بالمراح لما غربت الشمس,Facebook,Bedouin,High,Neutral
+824,بيع البعير بسعر طيب اليوم بالسوق,Twitter,Bedouin,Medium,Positive
+825,الحوار الصغير ما يفارق أمه أبد,Twitter,Bedouin,High,Neutral
+826,يا مرحبا بك نور البيت نور,Facebook,Bedouin,High,Positive
+827,تفضل للمجلس يا ابو فلان البيت بيتك,Twitter,Bedouin,High,Neutral
+828,اقعد لا تستحي يا خوينا الكرم عادتنا,Twitter,Bedouin,High,Positive
+829,القهوة جاية والتمر قدامك,LLM,Bedouin,High,Neutral
+830,ما نرضى يطلع الضيف بدون عشا,LLM,Bedouin,Medium,Neutral
+831,يا ولد قدم الفنجال لعمك,Facebook,Bedouin,High,Neutral
+832,حيّاك الله الف مرحبا بالغالي,LLM,Bedouin,High,Positive
+833,اللي يجينا ما يرجع محروم,LLM,Bedouin,High,Neutral
+834,العزيمة جاهزة للربع بكرة العشا,Twitter,Bedouin,High,Positive
+835,ذبحنا راس للضيف وما نفكر فيها,Facebook,Bedouin,High,Positive
+836,البيت بيت الضيف ما هو بيتنا,LLM,Bedouin,High,Neutral
+837,شرفتنا يا ابو سعود نورت المكان,LLM,Bedouin,High,Positive
+838,فكوا لهم المجلس وعدلوا الفرش,Twitter,Bedouin,High,Positive
+839,يا بخت اللي يستضيف الطيبين,LLM,Bedouin,Medium,Positive
+840,ما نكتفي بفنجال واحد للضيف,Twitter,Bedouin,High,Neutral
+841,طلعنا البر الصبح والجو خرافي,Twitter,Bedouin,High,Neutral
+842,الفقع طلع كثير هالسنة بعد المطر,LLM,Bedouin,Medium,Positive
+843,شفنا قطيع ظبيان بالبر من بعيد,LLM,Bedouin,Medium,Neutral
+844,النخل بالمزرعة محمّل رطب,Facebook,Bedouin,High,Neutral
+845,السيل جرى بالشعيب وفاض الوادي,Twitter,Bedouin,High,Positive
+846,الصيف قارب وحرارته بانت,Facebook,Bedouin,High,Neutral
+847,جلسنا تحت الطرفاء ونستظل,Facebook,Bedouin,High,Neutral
+848,ريحة الربيع تملا البر عطر,Facebook,Bedouin,High,Positive
+849,الشيح والقيصوم اخضروا بالأرض,LLM,Bedouin,High,Neutral
+850,الوادي فيه عشب وميه بعد السيل,LLM,Bedouin,High,Neutral
+851,الجراد ظهر بالصيف وأكل الزرع,Facebook,Bedouin,Medium,Neutral
+852,النحل يرف على الزهور بالربيع,LLM,Bedouin,High,Positive
+853,العصافير تغرد والصبح جميل,Facebook,Bedouin,Medium,Positive
+854,الفجر بدا ينشق والسما تحمر,LLM,Bedouin,High,Neutral
+855,هبت ريح الشمال وبردت الجو,Facebook,Bedouin,Medium,Neutral
+856,ما نقبل الذل ولو على حساب الدنيا,Twitter,Bedouin,High,Positive
+857,الرجال الرجال يوم الشدايد,Facebook,Bedouin,High,Positive
+858,ربعنا معنا لو ضاق الخناق,Facebook,Bedouin,High,Positive
+859,حنا قوم الوفا والعهد,LLM,Bedouin,High,Positive
+860,الكلمة عندنا سلاح ما ينكسر,Twitter,Bedouin,High,Positive
+861,ما نخون من يأمنّا,Facebook,Bedouin,High,Neutral
+862,الجبان ما يجلس بمجالسنا,Twitter,Bedouin,High,Negative
+863,العز بالنخوة والشيم,LLM,Bedouin,Medium,Positive
+864,من صاحب الطيب طاب ومن صاحب الرديء رد,LLM,Bedouin,High,Positive
+865,حنا أهل الكلمة الواحدة,Facebook,Bedouin,High,Neutral
+866,ما نغدر ولا نقبل الغدر,Twitter,Bedouin,High,Positive
+867,الشرف أمانة نحملها,Twitter,Bedouin,High,Positive
+868,نموت ولا نعيش بذل,LLM,Bedouin,High,Positive
+869,الرجل بموقفه مو بكلامه,Twitter,Bedouin,High,Neutral
+870,الفزعة شرف لكل من يحملها,LLM,Bedouin,High,Positive
+871,الشاعر سبحل والمجلس ساكت يسمع,Twitter,Bedouin,High,Neutral
+872,القصيدة الجديدة عجبت الكل,LLM,Bedouin,Medium,Positive
+873,الربابة صاتت بيد الشايب,Twitter,Bedouin,High,Neutral
+874,سمعنا شيلات فيها حماسة,Facebook,Bedouin,High,Neutral
+875,الشاعر قال بيت أبكى الرجال,LLM,Bedouin,High,Neutral
+876,المحاورة بين الشعراء نار,LLM,Bedouin,High,Neutral
+877,قصايد الغزل تذيب القلب,LLM,Bedouin,High,Neutral
+878,الهجيني على ظهر الذلول لذة,Facebook,Bedouin,High,Positive
+879,السامر ما هدأ إلا بعد منتصف الليل,LLM,Bedouin,High,Neutral
+880,قعدنا نسمع الشاعر لين الفجر,Facebook,Bedouin,High,Neutral
+881,البيت الشعري فيه معاني كبيرة,LLM,Bedouin,High,Neutral
+882,الشيلة الجديدة انتشرت بسرعة,LLM,Bedouin,High,Positive
+883,شاعرنا يوصف القبيلة بفخر,Twitter,Bedouin,High,Positive
+884,القصيدة زادت حماس الحاضرين,Twitter,Bedouin,High,Neutral
+885,الشاعر يمدح الكرام ويذم البخلا,Facebook,Bedouin,High,Neutral
+886,عمي طال عمره ما يقصر معنا,LLM,Bedouin,Medium,Positive
+887,خوالي أهل الطيب ما ننساهم,Twitter,Bedouin,High,Positive
+888,بنت عمي ست بيتها وما عليها كلام,Facebook,Bedouin,Medium,Neutral
+889,الوالدة مسندنا الله يحفظها,Facebook,Bedouin,High,Positive
+890,أبوي قدوتي بكل شي,Twitter,Bedouin,Medium,Neutral
+891,جدي الله يرحمه علّمنا الرجولة,Facebook,Bedouin,High,Neutral
+892,أخوي الكبير مثل أبوي,Twitter,Bedouin,High,Neutral
+893,العيال تربوا تحت أيدينا,Twitter,Bedouin,High,Neutral
+894,النسب يرجع لجد القبيلة,LLM,Bedouin,High,Neutral
+895,القرابة بينا قوية ما تنقطع,Facebook,Bedouin,High,Neutral
+896,بنات أهلنا محترمات ومحشومات,LLM,Bedouin,High,Neutral
+897,ولد العم أقرب من ولد الخال,LLM,Bedouin,High,Neutral
+898,العائلة مجتمعة بالمناسبة,Twitter,Bedouin,High,Neutral
+899,الاجتماع السنوي للقبيلة بعد شهر,LLM,Bedouin,High,Neutral
+900,حافظنا على اللحمة بيننا,Facebook,Bedouin,High,Neutral
+901,رحلنا بالفجر ووصلنا المغرب,LLM,Bedouin,High,Neutral
+902,الإبل مشت طول الليل بدون تعب,Facebook,Bedouin,High,Positive
+903,نزلنا بوادي فيه عشب وميه,Twitter,Bedouin,High,Neutral
+904,ضربنا الخيام وجلسنا نرتاح,Twitter,Bedouin,High,Neutral
+905,الرحلة طولت بس وصلنا بالسلامة,LLM,Bedouin,High,Positive
+906,عدّينا الجبال ووصلنا السهل,LLM,Bedouin,High,Neutral
+907,الدليل معانا يعرف كل طريق,Twitter,Bedouin,High,Neutral
+908,نمشي بالليل ونستريح بالنهار,Facebook,Bedouin,High,Neutral
+909,الزاد كفانا طول الرحلة,Twitter,Bedouin,High,Neutral
+910,لقينا بير قديم فيه ميه,Twitter,Bedouin,High,Neutral
+911,الصحرا ما فيها علامات بس نعرفها,LLM,Bedouin,High,Neutral
+912,ركبنا الجمال من الصبح,Twitter,Bedouin,High,Neutral
+913,القافلة طويلة وفيها ربع كثير,Twitter,Bedouin,High,Positive
+914,الطريق للديرة الجديدة صعب بس ممكن,LLM,Bedouin,High,Positive
+915,النجعة هذي السنة بعيدة,LLM,Bedouin,High,Neutral
+916,سوينا قرصان باللحم والمرق,Facebook,Bedouin,High,Neutral
+917,المندي طلع زاكي من التنور,Facebook,Bedouin,High,Positive
+918,الكبسة على الجمر ما لها مثيل,Twitter,Bedouin,Medium,Neutral
+919,الخبز طازج من الصاج,LLM,Bedouin,High,Positive
+920,شربنا لبن خضّ بارد,LLM,Bedouin,High,Neutral
+921,التمر مع القهوة أحلى شي,Twitter,Bedouin,High,Positive
+922,العصيدة بالعسل والسمن,LLM,Bedouin,Medium,Neutral
+923,المضغوط باللحم والرز,Twitter,Bedouin,High,Neutral
+924,نستخدم السمن البلدي بكل الأكل,Facebook,Bedouin,High,Neutral
+925,القهوة بالهيل والزعفران طعم خاص,LLM,Bedouin,High,Neutral
+926,الحاشي على الرز وجبة العرس,LLM,Bedouin,Medium,Neutral
+927,اليخني بالطماط وقطع اللحم,LLM,Bedouin,High,Neutral
+928,الجبن البلدي من حليب الغنم,Twitter,Bedouin,High,Neutral
+929,الدبس من التمر حلو وصحي,Twitter,Bedouin,Medium,Positive
+930,التمر العجوة أفضل الأنواع عندنا,LLM,Bedouin,High,Positive
+931,الوسم نزل والأرض جاهزة للزرع,Twitter,Bedouin,Medium,Positive
+932,الصيف طويل هالسنة,Twitter,Bedouin,High,Neutral
+933,الشتا بارد والليالي طويلة,Facebook,Bedouin,High,Neutral
+934,المطر نزل فجأة والكل انبسط,Facebook,Bedouin,Medium,Positive
+935,ريح الصبا خفيفة ولطيفة,LLM,Bedouin,High,Positive
+936,الغبار يوم أمس غطى الديرة,Twitter,Bedouin,Medium,Neutral
+937,الشمس شديدة بالظهيرة,LLM,Bedouin,High,Neutral
+938,الجو معتدل الصبح والمساء,Twitter,Bedouin,High,Positive
+939,البرد كسر العظم هالليلة,LLM,Bedouin,High,Negative
+940,الرطوبة قليلة بالصحرا,LLM,Bedouin,High,Neutral
+941,الليل طويل بفصل الشتا,LLM,Bedouin,High,Neutral
+942,النهار قصير والشمس تغيب بدري,Facebook,Bedouin,High,Neutral
+943,الربيع أجمل فصول السنة,Twitter,Bedouin,High,Positive
+944,الخريف وقت حصاد التمر,Facebook,Bedouin,High,Neutral
+945,المجلس عامر كل ليلة,Twitter,Bedouin,High,Positive
+946,الربع يجتمعون بعد العشا,LLM,Bedouin,High,Neutral
+947,القهوة ما تنقطع من الدلة,LLM,Bedouin,High,Neutral
+948,الحديث عن الماضي يطول,LLM,Bedouin,High,Neutral
+949,السوالف حلوة مع الربع,LLM,Bedouin,High,Positive
+950,الشايب يحكي والعيال يسمعون,Facebook,Bedouin,High,Positive
+951,الكبير يبدأ الكلام والصغير يسمع,LLM,Bedouin,High,Neutral
+952,المجلس للرجال والنسا عندهن مكان ثاني,Facebook,Bedouin,High,Neutral
+953,العود والمبخرة تعطر المجلس,Facebook,Bedouin,High,Neutral
+954,ندور الفنجال يمين,Facebook,Bedouin,High,Neutral
+955,الضيف يجلس بالصدر,Twitter,Bedouin,Medium,Neutral
+956,القهوة تصب للأكبر الأول,Facebook,Bedouin,High,Neutral
+957,الحديث يدور عن أخبار القبايل,Twitter,Bedouin,High,Neutral
+958,يتبادلون آخر الأخبار بالمجلس,Twitter,Bedouin,High,Neutral
+959,المجلس يجمع الأهل والأصحاب,Twitter,Bedouin,High,Neutral
+960,الصقر رجع بفريسته للصاحب,Facebook,Bedouin,High,Neutral
+961,جلسنا على المقنص من قبل الفجر,Twitter,Bedouin,High,Neutral
+962,الحبارى طارت من بعيد,Facebook,Bedouin,High,Neutral
+963,الصقار يعرف صقره من بعيد,Facebook,Bedouin,High,Neutral
+964,دربنا الصقر على يدنا,LLM,Bedouin,High,Neutral
+965,طار الصقر وانقض على الطير,LLM,Bedouin,High,Neutral
+966,الصيد هالسنة وفير بالبر,Facebook,Bedouin,High,Positive
+967,الكلاب السلوقية معنا بالقنص,Facebook,Bedouin,High,Neutral
+968,النار مولعة والشوي جاهز,Facebook,Bedouin,High,Neutral
+969,اصطدنا أرانب وحبارى,Twitter,Bedouin,High,Neutral
+970,الصقر الحر أغلى من الشاهين,Twitter,Bedouin,High,Neutral
+971,التلواح يدرب الصقر على الصيد,Facebook,Bedouin,High,Neutral
+972,القنص رياضة أجدادنا,LLM,Bedouin,High,Neutral
+973,ركبنا السيارات ورحنا البر,LLM,Bedouin,Medium,Neutral
+974,الصيد بالبادية له ذوق خاص,Facebook,Bedouin,High,Neutral
+975,الحصان وفي لصاحبه,LLM,Bedouin,High,Neutral
+976,ميدان السباق تجمع فيه الخيالة,LLM,Bedouin,High,Neutral
+977,فرسنا فازت بالسباق الأخير,LLM,Bedouin,High,Positive
+978,العرضة النجدية بالخيول والسيوف,LLM,Bedouin,High,Neutral
+979,المهرة الجديدة جميلة,Twitter,Bedouin,High,Positive
+980,الفارس لا ينزل عن فرسه,Facebook,Bedouin,High,Neutral
+981,الخيل تركض بسرعة البرق,Twitter,Bedouin,High,Neutral
+982,السرج والعنان جاهزين,Twitter,Bedouin,High,Positive
+983,الفارس والفرس روح واحدة,LLM,Bedouin,High,Neutral
+984,الخيل العربية مطلوبة بالعالم,Facebook,Bedouin,High,Neutral
+985,ركبت الحصان من الصغر,Twitter,Bedouin,High,Neutral
+986,والله العظيم ما عندي خبر,Facebook,Bedouin,High,Neutral
+987,شلون نسويها يا خوي,Twitter,Bedouin,High,Neutral
+988,ترى الأمر صعب بس مو مستحيل,LLM,Bedouin,High,Positive
+989,الله يعين على اللي جاي,LLM,Bedouin,High,Neutral
+990,ما نفرط بحقنا أبد,Twitter,Bedouin,High,Neutral
+991,الصبر والله يفرجها,Twitter,Bedouin,Medium,Positive
+992,الدنيا دول ما تبقى على حال,LLM,Bedouin,High,Neutral
+993,المال يروح ويجي,LLM,Bedouin,Medium,Neutral
+994,العمر قصير لازم نستغله,LLM,Bedouin,High,Neutral
+995,الأيام تعلمنا الكثير,LLM,Bedouin,High,Positive
+996,من جد وجد ومن لعب ندم,Facebook,Bedouin,Medium,Positive
+997,الحكمة بالسن الكبير,LLM,Bedouin,High,Neutral
+998,نسأل الله السلامة والعافية,LLM,Bedouin,High,Positive
+999,الفنجال الثاني للسيف والثالث للكيف,LLM,Bedouin,High,Neutral
+1000,البدوي يعرف نجوم السما زي ما يعرف أهله,Twitter,Bedouin,High,Neutral

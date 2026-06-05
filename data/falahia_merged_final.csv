@@ -1,0 +1,1022 @@
+﻿dialect,confidence,sentiment
+أني ما إليش دوخلا,high,neutral
+أَضي الضو,high,neutral
+ما بِديش أَداوم,high,neutral
+شو بدتش,high,neutral
+وتش مالتش وتش,high,negative
+فقعت معي,high,negative
+ما إليش خُلق,high,negative
+مالتش قالبه بوزتش,high,negative
+صوعبه الطريق ,high,negative
+سوهله الطريق,high,positive
+لد علي جاي,high,neutral
+الدنيا سقعه,high,neutral
+دوشتي راسي,high,negative
+مالتش قالبه بوزتش,high,negative
+مسقع وجهك ,high,negative
+البنت مزيونة ,high,positive
+هظولا جماعتك,high,neutral
+حاكوره إدّار,high,neutral
+هسا بَوصلك,high,negative
+دنق لتحت ,high,neutral
+ما إلي مراق هسا,high,negative
+أكربي حالك,high,negative
+اُكرب حالك,high,negative
+دنقي لتحت ,high,neutral
+تكَرفت كَرفتة,high,negative
+يزم روح انعثر غاد ,high,negative
+قُبي عن وجهي,high,negative
+قُب عن وجهي,high,negative
+وعيت إلعيد,high,neutral
+شو بتصاوي,high,neutral
+قب غاد,high,negative
+مسَقود الولد,high,negative
+إدعتشيها مليح,high,neutral
+إدَهوش دَهوشة,high,negative
+هاي قاروطه,high,negative
+مالك بتتميلح,high,negative
+هاي كمونه,high,negative
+البنت لايقة ,high,positive
+سواليف مشلخه,high,negative
+كيفك؟ جخه,high,positive
+يا مشحره,high,negative
+يا مشحرين ,high,negative
+يا مشحر,high,negative
+صباحك مصلج,high,negative
+هاظ واحد سرسري,high,negative
+أُخظ بوطي,high,neutral
+هاظا خام ,high,neutral
+قلاية بيض ,high,neutral
+إحنا مطقميشين,high,positive
+حل عني يزم,high,negative
+الأرض مطينه,high,negative
+مالتش بارمه بوزتش,high,negative
+دشر من ايدك ,high,neutral
+دايما ملبده,high,negative
+إقصر حسك,high,negative
+حسيته مدبق,high,negative
+قطعي بالخوصا,high,neutral
+هاتش صبي بالكفكير,high,neutral
+اتشعفل ووقع,high,negative
+لويش مقلعطين الدنيا ,high,negative
+لويه الجبنه مخمجه ,high,negative
+القزاز بوج وج,high,positive
+دير بالك لا تنلفِح,high,neutral
+بتحنتش عالكرسي,high,neutral
+طول نهارك بتلُغ بالاكل,high,negative
+قاعده بتدلق عالسُفره  ,high,negative
+ركب الجرة الغاز مصوكجه,high,neutral
+فر ثوبه لما وقع ,high,negative
+كانو يلعبو وفجو راس بعض,high,negative
+كيفكو يا أَخوتي وخواتي؟,high,neutral
+مَالك إمبرطم ؟ ,high,negative
+اليوم اشتريت خُضرا من عند الحِسبه,high,neutral
+اتهاوشوا وخبطو بعض بالقنوة,high,negative
+ما شاء الله عليتش مزهره,high,positive
+يا قَلبي البنت مزغمته,high,positive
+هتشبانه من هالدنيا,high,negative
+هاظ اجا جايب القيط والقرميط ,high,negative
+طول يومي شغال وانتو مدفوسين,high,negative
+ما شاء الله النار مهبرجه تهبرج ,high,positive
+والله اليوم لخمنا لخم صاحب المحل,high,negative
+هيني كمان شوي بشوفهن ,high,neutral
+مالهن علينا ؟ ,high,negative
+مسكتهن عن الحجة ,high,neutral
+ما تستعجلي مالك ملهمده,high,negative
+بحتشي بحتشي وهوا مفهي يم,high,negative
+بصاوي بالِغدا,high,neutral
+يم ولا حبه ,high,negative
+هاظ وضعه مستوي,high,negative
+طول يومه يلغ مش معقول شو مبطون,high,negative
+أقطم حسك,high,negative
+بحز وسعلي بدقعد,high,neutral
+منهو مزورقك؟,high,negative
+البنت معدَله ,high,positive
+إيه هاي عِجقه,high,negative
+يا الله شو هفيان ,high,neutral
+طول يومه يحقط بالشغل,high,negative
+لا تنتع نتع مش كويس,high,negative
+ما طعموه ماله ممصوع ,high,negative
+وجهك مثل البنورة ,high,positive
+ أنيطاكو ياها,high,neutral
+عمصن عيوني,high,negative
+دب حاله بالير,high,negative
+نوص الغاز,high,neutral
+وين احمد؟  هظكوه,high,neutral
+هضهوه لبشكير,high,neutral
+جوزناه تا منه يعقل,high,neutral
+تا منه يجي محمد بنطلع,high,neutral
+رح ننزل هسا ولا اميت؟,high,neutral
+من اميت وانتي عنا ,high,neutral
+لا تتجقمي علي ,high,negative
+اذرب الفوطبول,high,neutral
+وينك بتلعب خبيوه,high,neutral
+خلص دشرها من ايدك,high,neutral
+يزم سوالفك مراقع فقس,high,negative
+ناولني الشسمو,high,neutral
+كبير علي ما أني معصمص,high,neutral
+بي مي بالحاووز؟,high,neutral
+لد شلون إجقم ,high,negative
+شولنج خالا مليحه ؟,high,neutral
+اخوي سرق بالوني,high,negative
+عادي خليك مقرمز ,high,neutral
+لا تضلك مقرمزه هيه قدام العالم,high,negative
+دقيقتين بكبي قاعد,high,neutral
+جُبنة بقر,high,neutral
+إيه في باطوس مي قبال الدار,high,neutral
+هذكي الزبديه,high,neutral
+لويش رامي زباله على الوطاه,high,neutral
+اقضب مِلقط الفحم ,high,neutral
+هذني ضبيت كل الوعية ,high,neutral
+إيه شو انتش خامه,high,negative
+هاظا البوط جديد؟,high,neutral
+هسيعات بتيجي,high,neutral
+شو جخه هالقعده هونا,high,positive
+بل هاي بربع ليرَه ؟,high,negative
+بل بل بل بل مش هيتش,high,negative
+ابايه محلاهن ,high,positive
+لد غاد عسهل ,high,neutral
+لف علي جاي,high,neutral
+اوكل مد ايدك,high,neutral
+افنج الولد ,high,negative
+انبرع الزلمه,high,neutral
+يم طار زي البزره,high,neutral
+هاظ واحد ذايح,high,negative
+هاتي قي الشعر,high,neutral
+هاظ واحد هتر,high,negative
+شفتهن بلعبن طميمه,high,neutral
+البس جوكيت الدنيا سقعه,high,neutral
+بوكيت الباسكوت,high,neutral
+البنطلون زاكك علي,high,negative
+لويش قميصك هزق,high,negative
+اشتريت كابوي,high,neutral
+هاه هاه سامع؟,high,neutral
+تشنها هي؟,high,neutral
+يا الله شو انك وهر,high,negative
+طل من البنده,high,neutral
+اشتريت مونة الدار من المؤسسة,high,neutral
+ما ضل بدار ماعون ,high,neutral
+لساتها ما جت ,high,neutral
+بتنسنسله تنسنس,high,negative
+شق اللفت البنيه,high,positive
+بندلي قميصي,high,neutral
+لويش معنعن,high,negative
+ حيد عن السياره,high,neutral
+بتخرطم عالسكيت,high,negative
+ يزم اندهر عني,high,negative
+انعذر عن صباحي وك,high,negative
+إيه ملطنا,high,neutral
+صب من الخابيه,high,neutral
+رايحين عالتربه,high,neutral
+الزاريب بتشاقح,high,positive
+الدِنيا طاسه بيضا,high,neutral
+مشحاق,high,neutral
+هويه جاي,high,neutral
+اقبض الباب,high,neutral
+متشن مليح,high,neutral
+قاعدين بالحَمار,high,neutral
+لويه بتتمطق ,high,negative
+بتشاهي كثير,high,negative
+عمنو هيتش قايل,high,neutral
+خضرا ابرنجي,high,positive
+مضيتها اقارط بالسوق مني,high,neutral
+دير بالك هاظ سلبود,high,negative
+مالتش بتلغطي,high,negative
+طول نهاره يلغط,high,negative
+صرععني الزلمه,high,negative
+هاظ فناس شغل سواليف حصيده,high,negative
+اصبعه امدوحس,high,negative
+هاظ فالصو,high,negative
+بوخذ كلشي بمنجقه,high,negative
+تضلكيش توكزيني,high,neutral
+املعمظ كثير,high,negative
+اتسختن عشان ميقراش,high,negative
+بتقطمط ايديك كثير,high,negative
+يضل يتلصلص عجيران ,high,negative
+هيني طالع عالحيط ,high,neutral
+تقعدش تتفسقن,high,negative
+ما شاء الله الخله حمرا,high,positive
+هيتاو لخوك,high,neutral
+القدر مسدوف,high,neutral
+بِدناش إنروح عالَحُر؟؟,high,neutral
+لا يا قَلُب,high,neutral
+إيه لويش بتتعلوتشِن,high,negative
+والله ما أَني فاضيلكو,high,negative
+لز علي جاي خليه يعرف يقعد,high,neutral
+ما عرفتش أسوق الجو عطيطه,high,negative
+تلَفوني ديطفي,high,neutral
+قاعد عاللأرُض,high,neutral
+مثل العيله ما بيش,high,positive
+أَني عند دار إِهلي قاعد مع يُما ,high,neutral
+بدناش حدا يفتح ثُمُه بتشِلمه عليتش,high,positive
+أَني تربايتش يُما,high,positive
+إحنا بدناش ننطيلكو,high,negative
+روح أُقف مع ابوك عند دلحلال,high,neutral
+أَني مِش فاضي بِدقرا,high,neutral
+استنيت المي تامِنها تصفى,high,neutral
+الميِه عِكره ,high,negative
+ترا بلدِلنا بعين الشر,high,negative
+إسبُقني وأني جاي وراك,high,neutral
+قومالي هايه ,high,neutral
+هاظ الزلمه نتف ,high,negative
+تحتشيش معه ,high,negative
+ترا مقَبعه معي,high,negative
+هو بالله طنطيني هالمِربَط,high,neutral
+لد عساقيله,high,negative
+لد الكَرمَه اشتهيتها الك,high,positive
+خُذ هذولا وروح عند المِعجنه ,high,neutral
+بدجيب خبز من الفرن,high,neutral
+أباي هاي شو إنها محروره,high,negative
+أني هسا بدورجيكي,high,negative
+اليوم اشتريتلتش خراطه ,high,neutral
+خُذ قشاطك,high,neutral
+الشاروقه هايه للحمام,high,neutral
+ولع البابور,high,neutral
+دير بالك لاتوقع بالبير,high,neutral
+الشاي عطبلية,high,neutral
+ودي هالشماشير عالمِخيَطه,high,neutral
+وقعت وطلعتلي دُحديليه,high,negative
+هاظَ مسكين إطرَم,high,negative
+ها يا خيتي,high,neutral
+غدى معصب بدريش ليش,high,negative
+مالتش ملَكعه,high,negative
+ما البَدِتش,high,negative
+يا دادا الله يرضى عليتش,high,positive
+اشرب هايه وغد بطيب,high,positive
+بتمزمز عشاي,high,neutral
+ضلك إبحش,high,neutral
+تتعربشش عالحيط,high,negative
+إيه ما تُزقطه,high,neutral
+بالموت تا مزَطنة ,high,negative
+وتش معَطيهن لشعراتها,high,negative
+إنزل وله من على السده,high,negative
+أني بَلِح عنك الجلي,high,neutral
+الله يرزقنا نتبحبح,high,positive
+مالك بتزرط زرط,high,negative
+بالله تهاتيلي مرتشاه,high,neutral
+هايه الشعَثه إموتيتني ,high,negative
+لويش ضابهين غاد,high,neutral
+غط التشعتش بشاي,high,neutral
+لا تقعدي تلطي منه,high,negative
+مالتشن بتتصهونن,high,neutral
+مجقجق الصحن,high,neutral
+ابو قحمه كبيره,high,negative
+بردقان السنه غير ,high,positive
+ظله مهور,high,negative
+عَزق معي الحاكوره,high,neutral
+هو هيتش الي بشقط الفوطبول,high,negative
+هوبالله تهات الصَابَه,high,neutral
+إفنتش بالمِدرسِه ,high,positive
+سرقولي شحويطتي,high,negative
+هوولتش لِدي جاي,high,neutral
+توه كان عِندنا,high,neutral
+اشطفن البَردنا,high,neutral
+لقيته بتبصبص من على السِنسله,high,negative
+طول يومه بيحولص,high,negative
+قد الطُعمزه,high,neutral
+بِدَمر عليكو إمسات,high,neutral
+أبااااي تمبلت,high,negative
+بضاعه مصوكجه,high,negative
+لاصص الولد,high,negative
+إنكِس وله,high,neutral
+حطيهن بزرف,high,neutral
+مسعات فلو إلولاد,high,neutral
+شِدك مني ؟,high,negative
+الدنيا سميطه ,high,negative
+يا حوينه,high,negative
+علاوه نقدر,high,neutral
+موٍيصها عسريع,high,neutral
+كِيلته غَليانه,high,neutral
+وجهك شبه قاع الكيله,high,negative
+إنطحني عدرا,high,neutral
+رايحين عالغَابا,high,neutral
+شمر يزم,high,positive
+ترعش فيها ,high,neutral
+حويد لعِندنا,high,neutral
+بي عِندنا مييه,high,neutral
+حنه ما قِدرنا ,high,negative
+هظولا ثنتينيه,high,neutral
+إلفقها معيا,high,neutral
+مالكو ما بطلوش عليِه,high,neutral
+جِيرة الله تفضَلو علينا,high,positive
+مَلعتيه للولد,high,negative
+قُوك يا حجي,high,positive
+لا تقعد تتونى,high,negative
+هيتش يا عميمه ,high,neutral
+يعدمني شدوقتش محلاهن,high,positive
+لاقونا بالمَضافا,high,neutral
+انغمدو لأقوملكو,high,negative
+سبع الي يسبعتش,high,negative
+إمسحها بهالحيه,high,positive
+بقعدو يراجدوني بالحجار,high,negative
+قَوطِر عالسَهل,high,neutral
+سرعِتا مَليحه,high,positive
+أوليتا هيتش,high,neutral 
+مِشيتا غلط,high,negative
+روح عالمِلبنِه,high,neutral
+ إلي كَتبوهن أَخوتي,high,neutral
+هبّـط السقف علينا,high,negative
+لا تشحط الجرة,high,neutral
+انكعطل عن الدرج,high,negative
+تشنشطنا بالباصات,high,negative
+انقحط من المدير,high,negative
+ماله بدبّج فوق راسي,high,negative
+انصقعنا من البرد,high,negative
+بيدبّل بالمحاضرة,high,neutral
+لا تتمقطر على أخوك,high,negative
+طالعين يهجولوا بإربد,high,neutral
+بدي أقبّع هالشجيرة,high,neutral
+معط أذنه,high,negative
+انطل هالزبالة برا,high,neutral
+جدي بيتصوّك,high,positive
+بيتمولح بمشيته,high,neutral
+بيتشعبط عالدالية,high,neutral
+لا تتحركش بالكلب,high,negative
+زعل واندحر بزاويته,high,negative
+بقردد بزر,high,neutral
+بينكش بين الأغراض,high,neutral
+أبوي بيزبّط الحنفية,high,positive
+بيتمعجن بالحكي,high,negative
+بيتقمز بين الصخور,high,neutral
+هبر شقفة لحمة كبيرة,high,neutral
+بيدحّ عالباب,high,neutral
+بيمغط بالبلوزة,high,neutral
+لا تنغّز بجنبي,high,negative
+شلفط لساني,high,negative
+بقربع بالمواعين,high,negative
+صارله ساعة بيهرّج,high,negative
+فلان قُبع,high,negative
+هاد واحد هلفوت,high,negative
+هاد الولد عُكروت,high,neutral
+فلانة شرنة,high,negative
+أبو فلان رجل قعيس,high,positive
+صوته ملعلع بالحارة,high,negative
+هاد المهندس مفتّق,high,positive
+لا تسأله هبيلة,high,negative
+أسلوبه جِلف,high,negative
+جدي مخرّم بالتاريخ,high,positive
+والله إنك دِحية,high,positive
+وجهه مشفشف من الشمس,high,negative
+جاري مكحكح,high,neutral
+هاد واحد زنطاري,high,negative
+أبعد عنه هاد نِقِرة,high,negative
+الولد زي البوص,high,negative
+بظله شحّاط بالشوارع,high,negative
+واقف زي اللوحي,high,negative
+طالع للعرس مكتكت,high,positive
+شو ما تحكي معه دقر,high,negative
+الثوب صار محتحت,high,negative
+عيني فيها غباش,high,negative
+الولد قرطمة,high,neutral
+هاد واحد نِتِش,high,negative
+بيمشي مع الهمل,high,negative
+الحجر هاد عرّم,high,neutral
+لا تصدقه شبّار,high,negative
+الولد زي الكُتنة,high,neutral
+هاد الولد مزعور,high,negative
+الولد ملعوط,high,negative
+نام عالتخت,high,neutral
+حطي الجبنة بالنملية,high,neutral
+ولع البابور,high,neutral
+جيب اللقن الكبير,high,neutral
+دقوا الكبة بالميجنة,high,neutral
+الأرض زي الصوان,high,negative
+طبخوا بدست كبير,high,positive
+اكنسي بالكِبارة,high,neutral
+اشرب مي من الكِيلة,high,neutral
+ناولني طاسة الشوربة,high,neutral
+صفي الرز بالمصفاة,high,neutral
+حط القرمية بالصوبة,high,neutral
+قعدنا حول المنقل,high,positive
+صوت المهباش بجنن,high,positive
+الجارة بعتت سكيبة,high,positive
+جليت المواعين,high,neutral
+ناولني معلقة,high,neutral
+املأ الكوز مي,high,neutral
+الجرة بتبرد المي,high,positive
+رمينا الخبز بالطبونة,high,neutral
+اربط بمرس قوي,high,neutral
+معه شنتيانة بجنبه,high,neutral
+سبحنا ببركة المي,high,positive
+دخلوا عالصيرة,high,neutral
+الدجاجات فاتوا عالقن,high,neutral
+بنى خش للعدة,high,neutral
+حط الكتب عالرف,high,neutral
+ضوا الشق من الروزنة,high,neutral
+الخابية مليانة زيت,high,positive
+بتلبس المدرقة المطرزة,high,positive
+وقفنا فوق الشقيف,high,positive
+نزلنا عالغور,high,neutral
+المي ماشية بالشعيب,high,neutral
+زرعنا بالحاكورة,high,positive
+الكروم بتفتح النفس,high,positive
+الأرض لساتها بور,high,negative
+طلعنا عزبة عالجبل,high,positive
+تجمعت الحجارة رِجم,high,neutral
+السنسلة وقعت,high,negative
+الأرض فيها قلوع,high,negative
+التراب صار دُك,high,neutral
+الخلة فيها عشب,high,positive
+تعبت بطلعة عجلون,high,negative
+دير بالك بالنزلة,high,negative
+زرعنا زيتون عالجل,high,positive
+طريق وعر لا تروح منه,high,negative
+سهل حوران بمد النظر,high,positive
+شربنا من النبع,high,positive
+السيل جرف كل شي,high,negative
+كانت شتوية قوية,high,positive
+الصيفية حرارتها عالية,high,negative
+دخلت المربعانية,high,negative
+الجو غبرة خماسينية,high,negative
+الندى مغطي الشجر,high,positive
+ضربه بطبزة حجر,high,negative
+لمينا القش للنار,high,neutral
+حط التبن للدواب,high,neutral
+بيدقوا القمح بالبيدر,high,positive
+استخدموا لوح الدراس,high,neutral
+المذراة بتطير القش,high,neutral
+وضعه المادي كحيان,high,negative
+قفل الباب مصدي,high,negative
+واقف مطهبل,high,negative
+استناني عند المفرّق,high,neutral
+الولد رجع مخترع,high,negative
+قرّفتني عيشتي,high,negative
+زهقان وبدي أطلع,high,negative
+قمت عن المنسف شبعان,high,positive
+أنا ميت جوع,high,negative
+رجعت هلكان وتعبان,high,negative
+طلعت مستوي من الشغل,high,negative
+السيارة فرطت,high,negative
+التلفون خربان,high,negative
+الخبز صار معفن,high,negative
+البيض طعمه مزنخ,high,negative
+حاس حالي بدي أطق,high,negative
+المدير فقع اليوم,high,negative
+الزلمة هج من الديون,high,negative
+طس وجهه وطلع,high,negative
+بخ شوية عطر,high,neutral
+شخفت البيت شخف,high,positive
+بملبّك بالحكي,high,negative
+السوق معجوق,high,negative
+مقبّعة معه عالآخر,high,negative
+سوي اللي بدك على كيفك,high,neutral
+احكي معه بالهداوة,high,neutral
+خلص شغلك قوام,high,neutral
+أنا جاي عندك هسع,high,neutral
+بنحكي بعدين,high,neutral
+تيتة بتسلم عليك,high,positive
+خرّفني شو صار,high,neutral
+أنشهد إنك رجل,high,positive
+يا حيف عهيك رجال,high,negative
+ول! كل هاد صار؟,high,negative
+يزم اسمعني,high,neutral
+إحنا بنطلع قرابة,high,positive
+صاروا نسابتنا,high,positive
+العيلة اجتمعت,high,positive
+أولاد الحارة بلعبوا,high,positive
+دخلنا بزقاق ضيق,high,neutral
+قعدوا بالبرّانية,high,neutral
+الأهل بالجوّانية,high,positive
+لا توقف ععتبة الباب,high,neutral
+مسح بخلقة مبلولة,high,neutral
+اربطها بشريطة,high,neutral
+اشتريت قندارة جديدة,high,positive
+البس البابوج,high,neutral
+لبس الدشداشة,high,neutral
+جدي بلبس الحطة,high,positive
+عدل العقال عراسك,high,neutral
+بدفي غير الفروة,high,positive
+لبس الصديري,high,neutral
+حط المصاري بجيبتك,high,neutral
+الكم طويل بدو تقصير,high,negative
+القبة وسخة,high,negative
+شفت شلايا الغنم,high,neutral
+سرح بالنمات,high,neutral
+النار هبّت,high,neutral
+اشوي عالجمر,high,positive
+نظف السكن,high,neutral
+قعدنا علذّة نار,high,positive
+ما أحلى الشنينة,high,positive
+المنسف بدو جميد,high,positive
+بمرس بالجميدات,high,positive
+فتة عدس بتدفي,high,positive
+مكمورة أهل إربد,high,positive
+طبخت آذان شايب,high,positive
+الجعاجيل طعمها خيال,high,positive
+أزكى خبيصة عنب,high,positive
+أكلنا مطبق بصل,high,positive
+اللوف زاكي,high,positive
+سوينا سلطة علت,high,positive
+لقطنا خبيزة وطبخناها,high,positive
+انتبه من القريص,high,negative
+الكبة بدها سميدة,high,neutral
+المجدرة بالبرغل,high,positive
+شوربة الفريكة دايماً,high,positive
+خزننا قطين,high,positive
+حط زبيب فوق الرز,high,positive
+وزعوا ملبس,high,positive
+الهايـشة بتوكل عشب,high,neutral
+ذبحوا طلي للعزومة,high,positive
+السخلة بتلعب,high,positive
+الجحش بيلحق أمه,high,neutral
+حطوا الغنم بالزرب,high,neutral
+يسلم هالأيد اللي طبخت,high,positive
+والله زاكي هالأكل كتير,high,positive
+هاد الشب منيح كتير,high,positive
+ربنا يعطيك الصحة يا عمي,high,positive
+هالبنت شاطرة والله,high,positive
+الحمدلله على كل حال,high,positive
+عيشتنا تمام والله,high,positive
+هالولد حكى وما وفى,high,negative
+ناس منيحة وكرماء,high,positive
+الله يبارك فيك يا زلمي,high,positive
+والله هالشغلة منيحة,high,positive
+هالولد فاهم وذكي,high,positive
+نحنا بخير والحمدلله,high,positive
+صاحبي إنسان زين كتير,high,positive
+هالعيلة كلها منيحة,high,positive
+ربنا يوفقك يا ابني,high,positive
+عشنا وشفنا الخير,high,positive
+ما أكلنا غير ما عندنا,high,neutral
+خيرات ربنا كتيرة,high,positive
+الناس هون طيبين,high,positive
+والله فرحنا فيك كتير,high,positive
+هالبيت دافي وحلو,high,positive
+شغلتك منيحة يا زلمي,high,positive
+الله يديم السعادة علينا,high,positive
+هالعرس كان حلو كتير,high,positive
+يسلم حالك يا عمو,high,positive
+مبسوطين فيك والله,high,positive
+هالكرم ما بتلاقيه كمان,high,positive
+كل صبح بدي شاي حلو,high,neutral
+سألت عنك وما لقيت خبر,high,neutral
+هالجيران طيبين كتير,high,positive
+والله انبسطنا معك,high,positive
+هالقهوة زاكية كتير,high,positive
+ربنا يحفظك من كل شر,high,positive
+هالسهرة حلوة والله,high,positive
+الله يعطيك العافية,high,positive
+هالكلام منيح وصح,high,positive
+نحنا فخورين فيك يا بني,high,positive
+هالخبز طيب والله,high,positive
+دايما بتجي بوقت الأكل,high,neutral
+والله حكيت صح,high,positive
+هاد الزلمي أمين وصادق,high,positive
+ربنا يحفظ هالناس,high,positive
+هالولد بيفرح القلب,high,positive
+انبسطنا بزيارتك كتير,high,positive
+صحتك غالية يا عمو,high,positive
+هالأهل ما بيتبدل,high,positive
+الله يخلي الوالدين,high,positive
+هالعيلة متماسكة والله,high,positive
+الخير ما راح يكفينا,medium,positive
+والله تعبت من هالحكي,high,negative
+هاد الزلمي ما بينفع,high,negative
+شو هالتقصير اللي بتعمله,high,negative
+تعبنا من هالأوضاع,high,negative
+هالولد ما بيسمع كلام,high,negative
+غلط كتير هالشغلة,high,negative
+ما حدا بيساعد حدا هون,high,negative
+والله زهقنا من هالكلام,high,negative
+هاد ما بيستاهل الثقة,high,negative
+دايما مشاكل ومشاكل,high,negative
+ما في فايدة من هالحكي,high,negative
+هالشغلة ما صحيح أبدا,high,negative
+كذب وما في غيره,high,negative
+تعبت من هالزلمي والله,high,negative
+ما حدا بيهتم بغيره,high,negative
+هالأوضاع صعبة كتير,high,negative
+ما في شي ماشي صح,high,negative
+والله قلبي توجع منه,high,negative
+ما عاد نطيق هالضغط,high,negative
+هالمعاملة مو منيحة,high,negative
+كل يوم بتزيد المشاكل,high,negative
+ما في أمل بهالأمر,medium,negative
+تعبنا والله من هالحياة,high,negative
+ما بيفكر بغيره أبدا,high,negative
+هالكلام وجع قلب,high,negative
+خذلنا والله,high,negative
+ما عندو ضمير هاد,high,negative
+هالشب ما بيستاهل,high,negative
+الأمور ما بتمشي معنا,high,negative
+والله زعلنا كتير منه,high,negative
+هالشغلة غلط وبس,high,negative
+ما حدا يقدر يصبر على هيك,high,negative
+كل ما صبرنا زاد الأذى,high,negative
+هاد الواقع مو منيح,high,negative
+ما في وفاء بهالزمن,high,negative
+هالبنت ما بتسمع نصيحة,high,negative
+والله حرجنا منه كتير,high,negative
+تعب بلا فايدة,high,negative
+ما صار منه خير,high,negative
+ضاع الوقت بسببه,high,negative
+هالناس ما بتوفي,high,negative
+كل شي صاير غلط,high,negative
+ما في راحة بهالأيام,high,negative
+والله ما حكى صح ولا مرة,high,negative
+أخذ حقنا وراح,high,negative
+ما بيحترم كبير ولا صغير,high,negative
+خسرنا به والله,high,negative
+ما استفدنا منه شي,high,negative
+هالأيام صعبة وبس,high,negative
+والله ما نفع معه الكلام,high,negative
+ما بيحكي كلام بيستاهل,high,negative
+تعب بلا ما حدا شاف,high,negative
+هالشتا كتير بارد هالسنة,high,neutral
+رحت على السوق الصبح,high,neutral
+شو بتحكي عن هالموضوع,high,neutral
+كمان شوي ورح نوصل,high,neutral
+اشترينا خضرة من السوق,high,neutral
+ما عندنا شي نزيد عليه,high,neutral
+عندنا ضيوف الليلة,high,neutral
+بكرا في شغل عالصبح,high,neutral
+بكرا ما في وقت نتأخر,high,neutral
+الجو غيم اليوم,high,neutral
+بتشتغل وين هلق,high,neutral
+في اجتماع بكرا بالبلد,high,neutral
+خلصت دراستي الأسبوع الفايت,high,neutral
+شو في جديد عندك,high,neutral
+رحت على الدكتور الأسبوع اللي فات,high,neutral
+الأولاد رحوا على المدرسة,high,neutral
+قلت له موعد بكرا الصبح,high,neutral
+كل ما صبرنا زاد الأمر,high,negative
+هالأيام الدوام من الصبح,high,neutral
+بدنا نبني غرفة جديدة,medium,neutral
+إيمتى رح توصل من عمان,high,neutral
+قال إنه مشغول هالأسبوع,high,neutral
+رحنا على الحفلة ورجعنا متأخرين,high,neutral
+في شغل كتير هالأيام,high,neutral
+الولاد بدهم مصروف المدرسة,high,neutral
+ما رجع من السفر لهلق,high,neutral
+بدي اشتري سيارة جديدة,medium,neutral
+الجامعة بعيدة شوي عن البيت,high,neutral
+كلنا راحين على الحفلة,high,neutral
+هالأسبوع في امتحانات,high,neutral
+والله ما استفدنا شي,high,negative
+هالشب دايما يتأخر,high,negative
+بدنا نروح على السوق الجمعة,high,neutral
+الضيوف وصلوا من بعد العشا,high,neutral
+سألت عنك أمس,high,neutral
+عزمناهم وما جوا,high,negative
+في خبر جديد من البلد,high,neutral
+حكيت مع أخوي بالهاتف,high,neutral
+هالسنة الدراسة صعبة شوي,high,neutral
+ما جاب معه ولا خبر,high,neutral
+جارنا راح على عمان,high,neutral
+بدي أسأل عن هالموضوع,high,neutral
+قلت له بروح بكرا,high,neutral
+خلص الموسم بدري هالسنة,high,neutral
+قال بيجي وما إجا,high,negative
+الدوام على العشرة,high,neutral
+روح سلم عليه من طرفي,high,neutral
+كتير ناس رحوا على الحفل,high,neutral
+يا زلمي شو بدك تشتري,high,neutral
+والله الجو بارد اليوم,high,neutral
+شربنا شاي وحكينا,high,neutral
+رحنا نشرب قهوة بالديوان,high,neutral
+خبرني وين الطريق,high,neutral
+شو بتحكي ما فهمت,high,neutral
+قديش الساعة هلق,high,neutral
+الولد رجع من الأردن,medium,neutral
+سألت عن البيت القديم,high,neutral
+والله انبسطنا بالسهرة,high,positive
+ما جاب معه شي من السفر,high,neutral
+حتى هالسنة ما شفناه,high,neutral
+شفته بالسوق من شوي,high,neutral
+بكرا لازم نروح على الأهل,high,neutral
+هالجو تغير فجأة,high,neutral
+سمعت خبر عن الجيران,high,neutral
+كلنا اتفقنا على هالشي,high,neutral
+ما عندي وقت هالأيام,high,neutral
+بدي أنام بدري الليلة,high,neutral
+قلت لأمي بروح بكرا,high,neutral
+عندنا عرس بآخر الشهر,high,neutral
+رجع أبوي من الشغل متأخر,high,neutral
+في ناس جوا البيت,high,neutral
+ما سمعت الخبر لهلق,high,neutral
+هالدرب طويل شوي,high,neutral
+الصبح بدري صحيت,high,neutral
+ما في أحد في البيت,high,neutral
+في جامع جديد ببنوه بالحي,high,neutral
+أخوي راح يشتغل بالمدينة,medium,neutral
+كلنا راحين على السوق,high,neutral
+حكيت مع الشيخ أمس,high,neutral
+الولد بده يتجوز هالسنة,high,neutral
+عندنا ضيف من بعيد إجا,high,neutral
+ما قدرنا نوصل بوقت,high,neutral
+الجيل الجديد غير كتير,medium,neutral
+الأكل خلص بسرعة,high,neutral
+ما في خبز بالبيت,high,neutral
+الصبح في ضباب كتير,high,neutral
+بدنا نطبخ من بكرا,high,neutral
+هالليلة في سهرة عندنا,high,neutral
+شربنا شاي بالبيت,high,neutral
+إجا المختار يسأل عنا,high,neutral
+ما في ماي من الصبح,high,neutral
+شفت أهلي بعد غياب,high,positive
+روحوا زيارة الجيران,high,neutral
+والله فرحنا لما شفناهم,high,positive
+هالشجر محتاج مي,high,neutral
+الأكل جاهز ما بدنا شي,high,neutral
+ما شفناهم من زمان,high,neutral
+ما لحقنا على الموعد,high,neutral
+والله ما بعرف وين راح,high,negative
+ما حكى ولا كلمة,high,negative
+تركنا لحالنا وراح,high,negative
+ما في كهربا من أمس,high,negative
+إجوا يسلموا علينا,high,neutral
+ما قدرنا نشتري شي,medium,negative
+تعبنا من البرد هالسنة,high,negative
+هالطريق مكسور ومو منيح,high,negative
+قعدنا نحكي لساعة,high,neutral
+المصاري ما بتكفي,high,negative
+شربنا قهوة مع بعض,high,neutral
+ما أخذنا إذن من أحد,high,neutral
+بدهم مصروف كتير,high,neutral
+الشباب كلهم راحوا على المدينة,high,negative
+والله الدوام تعبني,high,negative
+ما حدا يسمع نصيحة الكبار,high,negative
+كل يوم غلا أكتر,high,negative
+ما في وقت نرتاح,high,negative
+هالشتا كان قاسي كتير,high,negative
+ما شفنا خير منه,high,negative
+حكى وما وفى بكلامه,high,negative
+ما في مستشفى قريب,high,negative
+الطريق مقطوع من الأمطار,high,negative
+ما رد على أحد,high,negative
+تعب بلا فلوس,high,negative
+والله ما انبسطنا بهالرحلة,high,negative
+الأسعار صعبة هالأيام,high,negative
+كل يوم شغل وبس,high,neutral
+الماي ما وصلت على البيت,high,negative
+هالموضوع ما انحل لهلق,high,negative
+ما أخذنا حقنا والله,high,negative
+الكهربا مقطوعة من أمس,high,negative
+ما عاد في فراغ,high,negative
+شفنا أشياء ما انبسطنا فيها,high,negative
+والله زعلنا من هالكلام,high,negative
+هاد الشي ما صار منه خير,high,negative
+بدنا نرتاح شوي,high,neutral
+خذل الناس اللي وثقت فيه,high,negative
+ما حكى الحقيقة أبدا,high,negative
+الضغط كتير هالأيام,high,negative
+ما رجع الأمانة,high,negative
+والله اشتغلنا وما أخذنا شي,high,negative
+هالزلمي ما يستاهل الاحترام,high,negative
+الله يصلح هالأحوال,high,negative
+تعبنا ولا حدا شاف,high,negative
+كسر الوعد وراح,high,negative
+والله خذلنا بأصعب وقت,high,negative
+هالأيام صعبة والله,high,negative
+ما نقدر نكمل هيك,high,negative
+الولاد كلهم سافروا,medium,negative
+بدي أنهي هالشي بسرعة,high,neutral
+الله يصبرنا على هالأيام,high,negative
+يسلم أيديك يا خالتي,high,positive
+والله تعبنا من الانتظار,high,negative
+ما كملنا على الموعد,high,negative
+شرف علينا ضيافتك,high,positive
+والله نورتنا يا عمو,high,positive
+هالعيلة مباركة والله,high,positive
+ربنا يرزقك يا بني,high,positive
+إجا بوقت ما توقعنا,high,neutral
+الله يعطيك الصحة والعافية,high,positive
+منيح إنك جيت تزورنا,high,positive
+يا ريت كل الناس متل هيك,high,positive
+شاطر والله ما عليك,high,positive
+هالولد بيفرح الأهل,high,positive
+والله نجح وفرحنا كتير,high,positive
+عشنا وشفنا الفرح,high,positive
+ربنا يحفظ هالعيلة,high,positive
+ما تأخرنا ولا مرة,high,positive
+الله يديم الأخوة والمحبة,high,positive
+نحنا بألف خير والحمدلله,high,positive
+هالإنسان بيستاهل كل خير,high,positive
+والله يا بنتي أفرحتيني,high,positive
+والله ما قصرنا معهم,high,positive
+الله يحفظ الأهل والجيران,high,positive
+مبسوط كتير والحمدلله,high,positive
+دايما نكون بالوقت,high,positive
+ربنا يوفق هالشباب,high,positive
+هالبيت فيه بركة والله,high,positive
+يا ريت هالأيام ما تنتهي,high,positive
+الله يعطيك فوق ما بتتمنى,high,positive
+هاد زلمي أصيل وكريم,high,positive
+ما خذلنا أحد طلب منا,high,positive
+ربنا يديم النعمة علينا,high,positive
+كلنا وقفنا مع بعض,high,positive
+والله تعلم وأكرمنا,high,positive
+ما شاء الله عليه شاطر,high,positive
+الله يرزقك يا عمي,high,positive
+هالعروس حلوة والله,high,positive
+فرحنا بزفافهم كتير,high,positive
+هالسهرة ما نسيناها,high,positive
+ربنا يكرم اللي كرمنا,high,positive
+والله بركة ببيتكم,high,positive
+هالولد أكرم ضيوفه,high,positive
+خير وبركة من ربنا,high,positive
+والله استاهلوا كل خير,high,positive
+هالإنسان الطيب ما بينسى,high,positive
+ربنا يوفقهم بحياتهم,high,positive
+هالعيلة بيت شرف والله,high,positive
+بركة بهالأيام الحلوة,high,positive
+الله يزيدهم من فضله,high,positive
+نحنا مبسوطين والله,high,positive
+ما تركنا أحد لحاله,high,positive
+بنت عمي تجوزت الشهر الفايت,high,neutral
+روحنا على عرس جيراننا,high,neutral
+المدرسة بعيدة على أولادنا,medium,neutral
+عندنا بقرة ولدت توأم,high,neutral
+دايما نحكي مع بعض,high,positive
+هالصيف حار كتير هالسنة,high,neutral
+اتصلت فيه وما رد,high,negative
+بعت رسالة وما جاوب,high,negative
+ما رحنا على السوق الأسبوع,high,neutral
+اشترينا شوية دجاج للبيت,high,neutral
+الديوان مليان ناس أمس,high,neutral
+حكينا مع الشيخ عن الموضوع,high,neutral
+المختار جاب خبر جديد,high,neutral
+ما فهم شو بدي منه,high,negative
+ما سمع كلام أهله,high,negative
+دايما يعمل على كيفه,high,negative
+شفت ناس من بلدنا بالمدينة,high,neutral
+هالشتا نزل مطر كتير,high,neutral
+إجانا خبر من الغربة,high,neutral
+قررنا نبني غرفة للضيوف,medium,neutral
+العيلة اجتمعت على العشا,high,neutral
+ما يقبل نصيحة أحد,high,negative
+الأولاد بدهم ملابس الشتا,high,neutral
+بكرا في سوق أسبوعي,high,neutral
+رحنا نزور القبر يوم الجمعة,high,neutral
+هالأسبوع في أعياد,high,neutral
+قلت لأبوي قصة المدرسة,high,neutral
+ما أكلنا غير الخبز والزيت,high,neutral
+الأكل على النار أحلى,high,neutral
+والله مو منيح هالتصرف,high,negative
+الزلابية والقهوة بالعيد,high,neutral
+عزمنا الجيران على العشا,high,neutral
+ما راح نسامحه بسهولة,high,negative
+الشتا إجا بدري هالسنة,high,neutral
+رحت أجيب الحليب من الجار,high,neutral
+الدجاج باضت كتير هالأيام,high,neutral
+المطر وقف من أمس,high,neutral
+ما في تلج لهلق,high,neutral
+هاد الكلام وجع قلب,high,negative
+ما توقعنا منه هيك,high,negative
+كل الأهل اجتمعوا بالعيد,high,neutral
+ما شفنا بعض من زمان,high,neutral
+الله يرجعك بالسلامة,high,positive
+يا ريت تزورنا أكتر,high,positive
+والله فرحنا لما جيت,high,positive
+ربنا يكتب السعادة لكم,high,positive
+هالبنت شاطرة بالدراسة,high,positive
+ما شاء الله على هالشب,high,positive
+هالبلد فيها خير والله,high,positive
+تمنيت لك التوفيق دايما,high,positive
+هالناس ما بتنسى المعروف,high,positive
+ربنا يوفقك بكل خطوة,high,positive
+والله انبسطنا بخبرك,high,positive
+هالخبر فرحنا كتير,high,positive
+الله يبارك بهالعيلة,high,positive
+عشنا وشفنا أفراحكم,high,positive
+هالبلد بتستاهل كل خير,high,positive
+والله قلبنا معك دايما,high,positive
+ربنا يحفظك من كل أذى,high,positive
+الله يديم الفرح علينا,high,positive
+يا ريت كل يوم متل هاليوم,high,positive
+والله بارك الله فيك,high,positive
+نحنا فرحانين فيكم والله,high,positive
+الله يخليكم لبعض,high,positive
+هالإنسان نعمة والله,high,positive
+ربنا يزيدك من علمه,high,positive
+والله هالشغلة أفرحت القلب,high,positive
+نجاحك فرحنا كلنا,high,positive
+هالقرار كان منيح والله,high,positive
+الله يديم المحبة بيننا,high,positive
+شكرا كتير على هالمعروف,high,positive
+يا ريت دايما بخير,high,positive
+والله هالناس طيبين,high,positive
+هاد الزلمي ما أحسن منه,high,positive
+الله يعطيك الجنة,high,positive
+والله ما توقعنا هيك كرم,high,positive
+دايما كريم ومعطاء,high,positive
+الله يبارك فيكم وبأولادكم,high,positive
+خذلنا بأصعب وقت,high,negative
+والله سعدنا فيك كتير,high,positive
+ربنا يسعدك ويوفقك,high,positive
+هالشب وفي وصادق,high,positive
+الله يطول بعمرك يا عمو,high,positive
+ما قصرت والله,high,positive
+هالعيلة بتستاهل كل فرح,high,positive
+وين ما رحت الخير معك,high,positive
+الله يوفق اللي بيشتغل بصدق,high,positive
+بارك الله بجهودك,high,positive
+هالعرس بيستاهل يا زلمي,high,positive
+منيح إنك رجعت بالسلامة,high,positive
+والله غبت وحشتنا,high,positive
+ربنا يكون معك دايما,high,positive
+سامعينك من هون والله,high,positive
+الله يرضى عليك يا بنتي,high,positive
+هالعيلة بيت خير والله,high,positive
+شافنا بضيقة وما وقف,high,negative
+ربنا يكثر من أمثالك,high,positive
+والله هالكلام أفرح القلب,high,positive
+ما عندنا غير الله وبعض,high,positive
+هالأيام حلوة والحمدلله,high,positive
+الله يحفظ الوطن والأهل,high,positive
+هالولد فخر لأهله,high,positive
+والله استاهل هالنجاح,high,positive
+الله يكرمك زي ما كرمتنا,high,positive
+نحنا كلنا أهل وعشيرة,high,positive
+هالمعروف ما بينسى أبدا,high,positive
+والله خير تتعامل معه,high,positive
+ربنا ما يحرمنا منك,high,positive
+عزيز علينا والله,high,positive
+والله هالكرم من الله,high,positive
+الله يديم الخير بيننا,high,positive
+ما في أحلى من الأهل,high,positive
+هالبركة من ربنا,high,positive
+نتمنى لك العمر المديد,high,positive
+هالإنسان الكريم ما بيتنسى,high,positive
+والله أكرمتنا أكتر من اللازم,high,positive
+ربنا يحفظ كل اللي حبونا,high,positive
+الله يسعدك ويفرحك,high,positive
+هالعيلة بتستاهل كل خير,high,positive
+بيتك عامر والله,high,positive
+الله يعز اللي عزك,high,positive
+ما شاء الله عليكم,high,positive
+ما مد إيدو لحدا,high,negative
+بس بيحكي ما بيعمل,high,negative
+هالناس طيبة وبتكفي,high,positive
+كلام بلا أفعال,high,negative
+هالبنت تربية منيحة,high,positive
+والله ما قصر معنا,high,positive
+ربنا يرضى عليك,high,positive
+الله يجزيك كل خير,high,positive
+هالعيلة الطيبة ما في زيها,high,positive
+مبسوطين كتير والله,high,positive
+الله يكرمك دايما,high,positive
+الطقس بارد والنار ضرورة,high,neutral
+ما صدق كلامه ولا مرة,high,negative
+دايما يوعد وما يوفي,high,negative
+الجيران بنوا بيت جديد,high,neutral
+شفنا قوس قزح بعد المطر,high,neutral
+ما عندنا كهربا من الليل,high,negative
+الطين غطى الطريق,high,negative
+والله اللي وثق فيه خسر,high,negative
+ما بيستحق الثقة أبدا,high,negative
+الثلج كتير وما قدرنا نمشي,high,negative
+خسارة الوقت اللي قضيناه,high,negative
+المياه مقطوعة من يومين,high,negative
+الأسعار ارتفعت وما قدرنا,high,negative
+ما في عمل للشباب هون,high,negative
+ما استفدنا من صداقته,high,negative
+والله بدنا نبعد عنه,high,negative
+ما بدنا نشوفه تاني,high,negative
+قطعنا علاقتنا فيه,high,negative
+ما في طبيب قريب منا,high,negative
+الولاد ما عندهم مدرسة ثانوية,high,negative
+كل الخير راح مع الشباب,medium,negative
+والله ما يستاهل الاهتمام,high,negative
+تركنا الموضوع وخلصنا,high,neutral
+والله ما شفنا دعم من حدا,high,negative
+تعبنا بالشتا وما في حل,high,negative
+ما بقي شي نحكي فيه,high,neutral
+انتهى الموضوع وبس,high,neutral
+تعبنا وما حدا شاف جهدنا,high,negative
+الشباب هاجروا وما رجعوا,medium,negative
+والله راح خيرنا على المدينة,high,negative
+الله يكرم اللي ما نسي أصله,high,positive
+ما بدنا نرجع لهالكلام,high,neutral
+خلص وما بدنا نكمل,high,neutral
+والله ما في أحلى من هالهوا,high,positive
+هالجبال خلقة ربنا وما أحلاها,high,positive
+ما في داعي نرجع فيه,high,neutral
+بدنا نتجاوز هالموضوع,high,neutral
+والله ما بدنا ذكريات,high,neutral
+اتفقنا وخلصنا الحكي,high,neutral
+والله الوقت مضى وبس,high,neutral
+ما بقي شي يربطنا,high,neutral
+كل واحد راح على حاله,high,neutral
+ما حكينا من زمان,high,neutral
+ما شفناهم من وقت طويل,high,neutral
+والله انبسطنا بهالطبيعة,high,positive
+هالهوا النقي ما في متله,high,positive
+الله يخلي هالبلد وأهلها,high,positive
+بعدنا عن بعض شوي,high,neutral
+ما صارت زيارة من مدة,high,neutral
+بدنا نرجع نتواصل,high,neutral
+اشتقنا لهم والله,high,positive
+والله بتمنى نشوف بعض,high,positive
+ما نسيناهم أبدا,high,positive
+دايما بنذكرهم بخير,high,positive
+والله ناس ما بتنسى,high,positive
+والله هالشجر العتيق بيحكي قصة,high,positive
+بتمنى يكونوا بخير,high,positive
+ما بيغيب عن بالنا,high,positive
+دايما بنسأل عنهم,high,positive
+هالبلد تستاهل كل خير,high,positive
+والله ما أحلى أيامنا معهم,high,positive
+نتمنى نلتقي قريب,high,positive
+ما خرج من بالنا,high,positive
+والله ما بدنا نرجع لهالموضوع,high,neutral
